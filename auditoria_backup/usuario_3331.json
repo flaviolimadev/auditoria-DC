@@ -1,0 +1,37 @@
+{
+    "id": 3331,
+    "nome": "Jos\u00e9 silva",
+    "email": "imperionft98@gmail.com",
+    "usuario": "ricoteam",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Cristiano Jos\u00e9 Santiago da silva",
+        "usuario": "global team"
+    },
+    "entradas": {
+        "entradas_totais": 1510.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 1510.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 1089.44,
+        "saques_pix": 0.0,
+        "saques_usdt": 1089.44
+    },
+    "ganhos": {
+        "ganhos_rendimento": 412.65,
+        "ganhos_residual": 715.32
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 114,
+        "total_normal": 97,
+        "total_fake": 10,
+        "total_bonus": 0,
+        "total_lider": 7,
+        "total_investido": 10079.0,
+        "total_pix": 5174.0,
+        "total_usdt": 240.0,
+        "total_fakes": 4665.0
+    }
+}

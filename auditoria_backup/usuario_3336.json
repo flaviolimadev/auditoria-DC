@@ -1,0 +1,37 @@
+{
+    "id": 3336,
+    "nome": "Leonardo Adolfo de paiva",
+    "email": "leoapaiva9@gmail.com",
+    "usuario": "Leopaiva",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Trindade",
+        "usuario": "prosperidade"
+    },
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 20.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 0.0,
+        "saques_pix": 0.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 6.51,
+        "ganhos_residual": 1.78
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 20.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 10.0
+    }
+}

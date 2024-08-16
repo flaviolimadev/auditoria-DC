@@ -1,0 +1,34 @@
+{
+    "id": 7330,
+    "nome": "Alcione Lobato de souza",
+    "email": "silvalobato16@gmail.com",
+    "usuario": "alcioneap",
+    "contato": "96984367228",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 1.57,
+        "ganhos_residual": 0.43
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

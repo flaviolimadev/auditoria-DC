@@ -1,0 +1,135 @@
+{
+    "nome": "Arleudo Silva e Silva",
+    "email": "arleudookingdesign@gmail.com",
+    "usuario": "Arleudodubai",
+    "contato": "68992825099",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 4.22,
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 19.0,
+        "saques_pix": 19.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 21.72,
+        "ganhos_residual": 1.5
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 11,
+            "total_normal": 3,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 6,
+            "total_investido": 670.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 650.0
+        },
+        "nivel_2": {
+            "numero_indicados": 13,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 7,
+            "total_investido": 820.0,
+            "total_pix": 120.0,
+            "total_usdt": 0.0,
+            "total_fakes": 700.0
+        },
+        "nivel_3": {
+            "numero_indicados": 2,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 87.0,
+            "total_pix": 87.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_4": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "nome": "Dejair Ferreira Camargo (Dejota Camargo)",
+    "email": "dejotacamargopcd@gmail.com",
+    "usuario": "Dejota",
+    "contato": null,
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 329.41,
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 50.0,
+        "saques_pix": 50.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 376.2,
+        "ganhos_residual": 3.21
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 7,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 6,
+            "total_investido": 6085.0,
+            "total_pix": 85.0,
+            "total_usdt": 0.0,
+            "total_fakes": 6000.0
+        },
+        "nivel_2": {
+            "numero_indicados": 29,
+            "total_normal": 4,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 25,
+            "total_investido": 4845.0,
+            "total_pix": 155.0,
+            "total_usdt": 10.0,
+            "total_fakes": 4680.0
+        },
+        "nivel_3": {
+            "numero_indicados": 27,
+            "total_normal": 18,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 9,
+            "total_investido": 451.0,
+            "total_pix": 271.0,
+            "total_usdt": 0.0,
+            "total_fakes": 180.0
+        },
+        "nivel_4": {
+            "numero_indicados": 2,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 20.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 2,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 29.0,
+            "total_pix": 29.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 2,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 3,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 50.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 30.0
+        },
+        "nivel_9": {
+            "numero_indicados": 2,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 1000.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1000.0
+        },
+        "nivel_10": {
+            "numero_indicados": 2,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 174.0,
+            "total_pix": 174.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

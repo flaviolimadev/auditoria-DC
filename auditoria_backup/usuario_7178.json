@@ -1,0 +1,34 @@
+{
+    "id": 7178,
+    "nome": "Alex Sandro Silva sacramento",
+    "email": "alexhiro33@hotmail.com",
+    "usuario": "Hiro33",
+    "contato": "91988773377",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 11.0,
+        "saques_pix": 11.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 1.52,
+        "ganhos_residual": 14.73
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 6,
+        "total_normal": 6,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 330.0,
+        "total_pix": 330.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

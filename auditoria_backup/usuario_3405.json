@@ -1,0 +1,37 @@
+{
+    "id": 3405,
+    "nome": "Tiago Coradini",
+    "email": "tcoradini07.uk@gmail.com",
+    "usuario": "tcoradini05",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Tiago Coradini",
+        "usuario": "Tcoradini07"
+    },
+    "entradas": {
+        "entradas_totais": 733.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 533.0
+    },
+    "saidas": {
+        "saques_totais": 468.74,
+        "saques_pix": 411.07,
+        "saques_usdt": 57.67
+    },
+    "ganhos": {
+        "ganhos_rendimento": 418.0,
+        "ganhos_residual": 90.71
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 3,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 835.0,
+        "total_pix": 785.0,
+        "total_usdt": 0.0,
+        "total_fakes": 50.0
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "nome": "F\u00e1bio junio de morais Concei\u00e7\u00e3o",
+    "email": "fabiojuniofjmc@gmail.com",
+    "usuario": "fabiojuniofj",
+    "contato": null,
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 5.75,
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 5.4,
+        "ganhos_residual": 0.35
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 4,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 4,
+            "total_investido": 40.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 40.0
+        },
+        "nivel_2": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_3": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_4": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

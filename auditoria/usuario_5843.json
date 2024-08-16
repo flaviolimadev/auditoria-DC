@@ -1,0 +1,135 @@
+{
+    "nome": "Cristina Gomes",
+    "email": "sucessgroupbtc@gmail.com",
+    "usuario": "sucessteam",
+    "contato": "916036127",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 115.25,
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 845.0,
+        "entradas_fakes": 1155.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 2251.59,
+        "saques_pix": 0,
+        "saques_usdt": 2251.59
+    },
+    "ganhos": {
+        "ganhos_rendimento": 213.97,
+        "ganhos_residual": 1052.87
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 41,
+            "total_normal": 40,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 34154.5,
+            "total_pix": 0.0,
+            "total_usdt": 30625.5,
+            "total_fakes": 3529.0
+        },
+        "nivel_2": {
+            "numero_indicados": 7,
+            "total_normal": 7,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 3920.0,
+            "total_pix": 500.0,
+            "total_usdt": 2463.0,
+            "total_fakes": 957.0
+        },
+        "nivel_3": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 300.0,
+            "total_pix": 0.0,
+            "total_usdt": 300.0,
+            "total_fakes": 0.0
+        },
+        "nivel_4": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

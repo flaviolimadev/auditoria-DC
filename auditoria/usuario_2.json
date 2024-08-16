@@ -1,0 +1,135 @@
+{
+    "nome": "Digital Club",
+    "email": "ADMTI02@gmail.com",
+    "usuario": "digitalclub02",
+    "contato": "11977327672",
+    "tipo_conta": "NORMAL",
+    "saldo_disponivel": 580.62,
+    "entradas": {
+        "entradas_totais": 0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0,
+        "ganhos_residual": 580.63
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 10.0
+        },
+        "nivel_2": {
+            "numero_indicados": 230,
+            "total_normal": 209,
+            "total_fake": 12,
+            "total_bonus": 0,
+            "total_lider": 9,
+            "total_investido": 258568.09,
+            "total_pix": 1185.59,
+            "total_usdt": 448.5,
+            "total_fakes": 256934.0
+        },
+        "nivel_3": {
+            "numero_indicados": 76,
+            "total_normal": 50,
+            "total_fake": 13,
+            "total_bonus": 1,
+            "total_lider": 12,
+            "total_investido": 92836.0,
+            "total_pix": 8247.0,
+            "total_usdt": 47969.0,
+            "total_fakes": 36620.0
+        },
+        "nivel_4": {
+            "numero_indicados": 214,
+            "total_normal": 163,
+            "total_fake": 6,
+            "total_bonus": 0,
+            "total_lider": 45,
+            "total_investido": 43460.47,
+            "total_pix": 6400.47,
+            "total_usdt": 4500.0,
+            "total_fakes": 32560.0
+        },
+        "nivel_5": {
+            "numero_indicados": 314,
+            "total_normal": 184,
+            "total_fake": 20,
+            "total_bonus": 0,
+            "total_lider": 110,
+            "total_investido": 29099.93,
+            "total_pix": 10590.01,
+            "total_usdt": 874.0,
+            "total_fakes": 17635.92
+        },
+        "nivel_6": {
+            "numero_indicados": 434,
+            "total_normal": 311,
+            "total_fake": 27,
+            "total_bonus": 0,
+            "total_lider": 96,
+            "total_investido": 70522.61,
+            "total_pix": 12944.23,
+            "total_usdt": 4620.0,
+            "total_fakes": 52958.38
+        },
+        "nivel_7": {
+            "numero_indicados": 670,
+            "total_normal": 512,
+            "total_fake": 59,
+            "total_bonus": 0,
+            "total_lider": 99,
+            "total_investido": 71343.64,
+            "total_pix": 30488.64,
+            "total_usdt": 5166.0,
+            "total_fakes": 35689.0
+        },
+        "nivel_8": {
+            "numero_indicados": 760,
+            "total_normal": 522,
+            "total_fake": 46,
+            "total_bonus": 0,
+            "total_lider": 192,
+            "total_investido": 110760.37,
+            "total_pix": 12228.87,
+            "total_usdt": 30785.5,
+            "total_fakes": 67746.0
+        },
+        "nivel_9": {
+            "numero_indicados": 732,
+            "total_normal": 463,
+            "total_fake": 72,
+            "total_bonus": 1,
+            "total_lider": 196,
+            "total_investido": 122642.0,
+            "total_pix": 10857.0,
+            "total_usdt": 4523.0,
+            "total_fakes": 107262.0
+        },
+        "nivel_10": {
+            "numero_indicados": 474,
+            "total_normal": 264,
+            "total_fake": 16,
+            "total_bonus": 0,
+            "total_lider": 194,
+            "total_investido": 203796.0,
+            "total_pix": 3966.0,
+            "total_usdt": 3500.0,
+            "total_fakes": 196330.0
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "nome": "Clercio De Oliveira",
+    "email": "clerciodeoliveira8@gmail.com",
+    "usuario": "ClercioDClub",
+    "contato": "77991379312",
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 6.17,
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 28.0,
+        "saques_pix": 28.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 23.34,
+        "ganhos_residual": 10.83
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 5,
+            "total_normal": 5,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 260.0,
+            "total_pix": 160.0,
+            "total_usdt": 0.0,
+            "total_fakes": 100.0
+        },
+        "nivel_2": {
+            "numero_indicados": 6,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 20.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_3": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_4": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

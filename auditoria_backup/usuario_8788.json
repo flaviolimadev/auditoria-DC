@@ -1,0 +1,34 @@
+{
+    "id": 8788,
+    "nome": "Ricardo Lima",
+    "email": "lima.riclove1974@gmail.com",
+    "usuario": "riclove1974",
+    "contato": "11974323576",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 290.0,
+        "entradas_usdt": 290.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 5.33,
+        "ganhos_residual": 0.7
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 297.0,
+        "total_pix": 0.0,
+        "total_usdt": 297.0,
+        "total_fakes": 0.0
+    }
+}

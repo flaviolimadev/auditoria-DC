@@ -1,0 +1,34 @@
+{
+    "id": 8751,
+    "nome": "Venilda Loehder",
+    "email": "nicainvestimentos01@gmail.com",
+    "usuario": "Nica01",
+    "contato": "51996810238",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 1000.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 20.0,
+        "saques_pix": 0,
+        "saques_usdt": 20.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 19.1,
+        "ganhos_residual": 21.32
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 4440.0,
+        "total_pix": 0.0,
+        "total_usdt": 3000.0,
+        "total_fakes": 1440.0
+    }
+}

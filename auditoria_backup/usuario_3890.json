@@ -1,0 +1,34 @@
+{
+    "id": 3890,
+    "nome": "Andrew Farias",
+    "email": "jptradermilionario@gmail.com",
+    "usuario": "Jpdigital",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 144.0,
+        "saques_pix": 94.0,
+        "saques_usdt": 50.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 144.79,
+        "ganhos_residual": 18.1
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 19,
+        "total_normal": 1,
+        "total_fake": 11,
+        "total_bonus": 1,
+        "total_lider": 6,
+        "total_investido": 540.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 540.0
+    }
+}

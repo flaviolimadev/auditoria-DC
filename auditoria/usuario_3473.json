@@ -1,0 +1,135 @@
+{
+    "nome": "Divino jose ferreira",
+    "email": "divinocmc4@gmail.com",
+    "usuario": "Topnatal",
+    "contato": null,
+    "tipo_conta": "NORMAL",
+    "saldo_disponivel": 1.47,
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 100.0
+    },
+    "saidas": {
+        "saques_totais": 112.97,
+        "saques_pix": 112.97,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 32.33,
+        "ganhos_residual": 82.11
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 5,
+            "total_normal": 4,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 1180.0,
+            "total_pix": 150.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1030.0
+        },
+        "nivel_2": {
+            "numero_indicados": 19,
+            "total_normal": 18,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 1301.76,
+            "total_pix": 187.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1114.76
+        },
+        "nivel_3": {
+            "numero_indicados": 20,
+            "total_normal": 13,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 7,
+            "total_investido": 4233.0,
+            "total_pix": 2153.0,
+            "total_usdt": 200.0,
+            "total_fakes": 1880.0
+        },
+        "nivel_4": {
+            "numero_indicados": 23,
+            "total_normal": 18,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 2,
+            "total_investido": 5763.0,
+            "total_pix": 3663.0,
+            "total_usdt": 560.0,
+            "total_fakes": 1540.0
+        },
+        "nivel_5": {
+            "numero_indicados": 26,
+            "total_normal": 23,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 2,
+            "total_investido": 2380.0,
+            "total_pix": 555.0,
+            "total_usdt": 450.0,
+            "total_fakes": 1375.0
+        },
+        "nivel_6": {
+            "numero_indicados": 3,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 90.0,
+            "total_pix": 40.0,
+            "total_usdt": 0.0,
+            "total_fakes": 50.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 40.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 20.0
+        },
+        "nivel_8": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

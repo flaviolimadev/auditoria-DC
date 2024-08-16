@@ -1,0 +1,37 @@
+{
+    "id": 3441,
+    "nome": "Ruam Carlos leal de jesus",
+    "email": "ruamcarlos21@gmail.com",
+    "usuario": "Ruamcarlos",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Danilo Paranhos gomes",
+        "usuario": "Danilo"
+    },
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 150.0
+    },
+    "saidas": {
+        "saques_totais": 36.78,
+        "saques_pix": 36.78,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 37.74,
+        "ganhos_residual": 0.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

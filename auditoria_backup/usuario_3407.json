@@ -1,0 +1,37 @@
+{
+    "id": 3407,
+    "nome": "Mauricio Freitas Batista",
+    "email": "mauriciofbat52@gmail.com",
+    "usuario": "Mauriciofbat",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Davi Rocha ferreira",
+        "usuario": "Kikosalasie"
+    },
+    "entradas": {
+        "entradas_totais": 810.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 610.0
+    },
+    "saidas": {
+        "saques_totais": 710.0,
+        "saques_pix": 710.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 406.89,
+        "ganhos_residual": 316.75
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 2782.0,
+        "total_pix": 2782.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

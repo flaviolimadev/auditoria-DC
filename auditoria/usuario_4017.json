@@ -1,0 +1,135 @@
+{
+    "nome": "Edson de Souza Pereira",
+    "email": "amagnifica.amagnifica@gmail.com",
+    "usuario": "netchampion",
+    "contato": "31996488926",
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 2.43,
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 244.02,
+        "saques_pix": 104.52,
+        "saques_usdt": 139.5
+    },
+    "ganhos": {
+        "ganhos_rendimento": 358.7,
+        "ganhos_residual": 32.0
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 24,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 18,
+            "total_investido": 3650.0,
+            "total_pix": 910.0,
+            "total_usdt": 0.0,
+            "total_fakes": 2740.0
+        },
+        "nivel_2": {
+            "numero_indicados": 40,
+            "total_normal": 18,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 22,
+            "total_investido": 1060.0,
+            "total_pix": 340.0,
+            "total_usdt": 10.0,
+            "total_fakes": 710.0
+        },
+        "nivel_3": {
+            "numero_indicados": 13,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 7,
+            "total_investido": 280.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 260.0
+        },
+        "nivel_4": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

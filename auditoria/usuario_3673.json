@@ -1,0 +1,135 @@
+{
+    "nome": "Orlando Antonio belo",
+    "email": "oabelo22@gmail.com",
+    "usuario": "orlandobelo",
+    "contato": null,
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 38.7,
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 471.22,
+        "saques_pix": 471.22,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 256.8,
+        "ganhos_residual": 253.12
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 2,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 489.0,
+            "total_pix": 169.0,
+            "total_usdt": 0.0,
+            "total_fakes": 320.0
+        },
+        "nivel_2": {
+            "numero_indicados": 99,
+            "total_normal": 21,
+            "total_fake": 17,
+            "total_bonus": 0,
+            "total_lider": 61,
+            "total_investido": 8763.55,
+            "total_pix": 5744.55,
+            "total_usdt": 24.0,
+            "total_fakes": 2995.0
+        },
+        "nivel_3": {
+            "numero_indicados": 57,
+            "total_normal": 15,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 40,
+            "total_investido": 1787.0,
+            "total_pix": 1010.0,
+            "total_usdt": 47.0,
+            "total_fakes": 730.0
+        },
+        "nivel_4": {
+            "numero_indicados": 20,
+            "total_normal": 12,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 5,
+            "total_investido": 190.0,
+            "total_pix": 110.0,
+            "total_usdt": 0.0,
+            "total_fakes": 80.0
+        },
+        "nivel_5": {
+            "numero_indicados": 3,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

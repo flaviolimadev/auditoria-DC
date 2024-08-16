@@ -1,0 +1,34 @@
+{
+    "id": 7176,
+    "nome": "F\u00e1tima Correia",
+    "email": "capucccino@hotmail.com",
+    "usuario": "Corfatima",
+    "contato": "963755599",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 155.0,
+        "entradas_usdt": 103.0,
+        "entradas_fakes": 52.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 16.82,
+        "saques_pix": 0,
+        "saques_usdt": 16.82
+    },
+    "ganhos": {
+        "ganhos_rendimento": 21.22,
+        "ganhos_residual": 5.91
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 155.0,
+        "total_pix": 0.0,
+        "total_usdt": 103.0,
+        "total_fakes": 52.0
+    }
+}

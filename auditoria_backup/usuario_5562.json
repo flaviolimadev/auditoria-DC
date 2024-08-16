@@ -1,0 +1,34 @@
+{
+    "id": 5562,
+    "nome": "Aleison santos ferreira",
+    "email": "santosaleilson28@gmail.com",
+    "usuario": "Ale do acre",
+    "contato": "85982354889",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 17.7,
+        "ganhos_residual": 1.86
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 100.0,
+        "total_pix": 100.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

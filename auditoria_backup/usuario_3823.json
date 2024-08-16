@@ -1,0 +1,34 @@
+{
+    "id": 3823,
+    "nome": "Lucas Mauro Rabelo da Silva",
+    "email": "leomhs26@gmail.com",
+    "usuario": "geoelukas",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 48.54,
+        "saques_pix": 48.54,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 24.54,
+        "ganhos_residual": 26.38
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 262.0,
+        "total_pix": 262.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

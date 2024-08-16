@@ -1,0 +1,34 @@
+{
+    "id": 6372,
+    "nome": "Maicon de jesus Mendes",
+    "email": "maicon.mendes@gmail.com",
+    "usuario": "Mmendes",
+    "contato": "34996939261",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 3000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 3000.0
+    },
+    "saidas": {
+        "saques_totais": 321.0,
+        "saques_pix": 321.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 578.4,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 0,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 1000.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 1000.0
+    }
+}

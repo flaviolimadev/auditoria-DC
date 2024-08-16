@@ -1,0 +1,37 @@
+{
+    "id": 3423,
+    "nome": "Kyany Ferreira dos Santos",
+    "email": "kyanyferreiras@gmail.com",
+    "usuario": "Kyany2681",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Bruno Angelo Ribeiro da silva",
+        "usuario": "Bruno2681"
+    },
+    "entradas": {
+        "entradas_totais": 1100.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 1000.0
+    },
+    "saidas": {
+        "saques_totais": 664.31,
+        "saques_pix": 664.31,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 625.43,
+        "ganhos_residual": 65.79
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 4,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 2,
+        "total_investido": 443.67,
+        "total_pix": 293.67,
+        "total_usdt": 0.0,
+        "total_fakes": 150.0
+    }
+}

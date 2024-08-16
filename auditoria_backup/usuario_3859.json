@@ -1,0 +1,34 @@
+{
+    "id": 3859,
+    "nome": "Andr\u00e9ia Sebastiana Maria Belo de Moura",
+    "email": "tiazezitaa@gmail.com",
+    "usuario": "Andreiabelo",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 34.0,
+        "entradas_usdt": 24.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 9.58,
+        "saques_pix": 9.58,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 11.59,
+        "ganhos_residual": 3.86
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 132.0,
+        "total_pix": 122.0,
+        "total_usdt": 0.0,
+        "total_fakes": 10.0
+    }
+}

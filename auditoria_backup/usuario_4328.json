@@ -1,0 +1,34 @@
+{
+    "id": 4328,
+    "nome": "Sunil K",
+    "email": "edamuricharity@gmail.com",
+    "usuario": "edamuris1",
+    "contato": "8368869734",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 2000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 604.2,
+        "ganhos_residual": 5.28
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 19,
+        "total_normal": 18,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 1100.0,
+        "total_pix": 0.0,
+        "total_usdt": 100.0,
+        "total_fakes": 1000.0
+    }
+}

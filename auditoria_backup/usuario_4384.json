@@ -1,0 +1,34 @@
+{
+    "id": 4384,
+    "nome": "Joseny Milhomem Brito Mascaranhas",
+    "email": "josymilhomemmk@gmail.com",
+    "usuario": "Joseny",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 100.0
+    },
+    "saidas": {
+        "saques_totais": 17.0,
+        "saques_pix": 17.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 19.1,
+        "ganhos_residual": 4.07
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 4,
+        "total_normal": 4,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 206.0,
+        "total_pix": 206.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 5866,
+    "nome": "Diegoasf",
+    "email": "diegonicoquit@gmail.com",
+    "usuario": "canallmultir",
+    "contato": "179998456555",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 11.11,
+        "saques_pix": 11.11,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 2.21,
+        "ganhos_residual": 9.7
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 25,
+        "total_normal": 23,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 2,
+        "total_investido": 230.0,
+        "total_pix": 120.0,
+        "total_usdt": 0.0,
+        "total_fakes": 110.0
+    }
+}

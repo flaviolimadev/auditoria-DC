@@ -1,0 +1,37 @@
+{
+    "id": 3347,
+    "nome": "Jo\u00e3o Henrique",
+    "email": "joaofreitashg@gmail.com",
+    "usuario": "joaohenri",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 20.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 6.0,
+        "saques_pix": 6.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 12.58,
+        "ganhos_residual": 0.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

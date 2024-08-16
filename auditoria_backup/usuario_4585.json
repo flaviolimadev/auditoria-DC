@@ -1,0 +1,34 @@
+{
+    "id": 4585,
+    "nome": "Antonio Carneiro de Moura",
+    "email": "acmoura1@gmail.com",
+    "usuario": "AntonioMoura",
+    "contato": "81984696128",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 132.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 122.0
+    },
+    "saidas": {
+        "saques_totais": 5.0,
+        "saques_pix": 5.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 14.42,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 10.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 10.0
+    }
+}

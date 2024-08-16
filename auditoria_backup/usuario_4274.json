@@ -1,0 +1,34 @@
+{
+    "id": 4274,
+    "nome": "S\u00e9rgio Roberto da rocha melo",
+    "email": "srgniro@gmail.com",
+    "usuario": "SSantorini",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 140.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 30.0,
+        "entradas_pix": 110.0
+    },
+    "saidas": {
+        "saques_totais": 73.81,
+        "saques_pix": 73.81,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 43.38,
+        "ganhos_residual": 35.63
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 4,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 690.0,
+        "total_pix": 480.0,
+        "total_usdt": 0.0,
+        "total_fakes": 210.0
+    }
+}

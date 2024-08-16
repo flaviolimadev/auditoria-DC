@@ -1,0 +1,37 @@
+{
+    "id": 3344,
+    "nome": "Matheus laranjeira lopes",
+    "email": "matheus2010rn@hotmail.com",
+    "usuario": "Matheus9537",
+    "contato": "84981629903",
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 173.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 163.0
+    },
+    "saidas": {
+        "saques_totais": 50.0,
+        "saques_pix": 50.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 53.11,
+        "ganhos_residual": 2.13
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 4,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 91.0,
+        "total_pix": 81.0,
+        "total_usdt": 0.0,
+        "total_fakes": 10.0
+    }
+}

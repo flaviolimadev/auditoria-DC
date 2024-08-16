@@ -1,0 +1,34 @@
+{
+    "id": 5895,
+    "nome": "Jos\u00e9 Carlos Ferreira Lopes",
+    "email": "lopes_veiculos@hotmail.com",
+    "usuario": "Lopes2024",
+    "contato": "44998058081",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 100.0
+    },
+    "saidas": {
+        "saques_totais": 10.47,
+        "saques_pix": 0,
+        "saques_usdt": 10.47
+    },
+    "ganhos": {
+        "ganhos_rendimento": 19.71,
+        "ganhos_residual": 0.52
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

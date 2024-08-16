@@ -1,0 +1,37 @@
+{
+    "id": 3420,
+    "nome": "Edi Carlos de Jesus Miranda",
+    "email": "edcarlosjesud66@gmail.com",
+    "usuario": "Edicarlos",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Carlos Roberto Nunes",
+        "usuario": "FenixxClub"
+    },
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 0.0,
+        "saques_pix": 0.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 103.7,
+        "ganhos_residual": 3.36
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 200.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 200.0
+    }
+}

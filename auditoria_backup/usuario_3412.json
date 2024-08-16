@@ -1,0 +1,37 @@
+{
+    "id": 3412,
+    "nome": "Carlos Roberto Nunes",
+    "email": "crnfenixx@gmail.com",
+    "usuario": "FenixxClub",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Francisco Gonzaga da Silva",
+        "usuario": "Gonzaga2391"
+    },
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 49.53,
+        "saques_pix": 49.53,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 30.7,
+        "ganhos_residual": 16.21
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 19,
+        "total_normal": 11,
+        "total_fake": 4,
+        "total_bonus": 0,
+        "total_lider": 4,
+        "total_investido": 849.0,
+        "total_pix": 109.0,
+        "total_usdt": 0.0,
+        "total_fakes": 740.0
+    }
+}

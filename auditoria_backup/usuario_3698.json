@@ -1,0 +1,34 @@
+{
+    "id": 3698,
+    "nome": "BRUNO RAFAEL VILELA FELIX",
+    "email": "brunexnacl2@gmail.com",
+    "usuario": "Sasori1989",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 81.72,
+        "saques_pix": 81.72,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 45.78,
+        "ganhos_residual": 41.37
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 301.0,
+        "total_pix": 301.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "nome": "Breno Duarte Paerehrino",
+    "email": "divinocmc1@gmail.com",
+    "usuario": "topbrasil",
+    "contato": "84999812762",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 3.35,
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 331.33,
+        "saques_pix": 331.33,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0,
+        "ganhos_residual": 334.68
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 17,
+            "total_normal": 11,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 8220.38,
+            "total_pix": 1682.0,
+            "total_usdt": 340.0,
+            "total_fakes": 6198.38
+        },
+        "nivel_2": {
+            "numero_indicados": 24,
+            "total_normal": 19,
+            "total_fake": 4,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 11075.0,
+            "total_pix": 915.0,
+            "total_usdt": 0.0,
+            "total_fakes": 10160.0
+        },
+        "nivel_3": {
+            "numero_indicados": 46,
+            "total_normal": 33,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 13,
+            "total_investido": 38099.77,
+            "total_pix": 939.77,
+            "total_usdt": 0.0,
+            "total_fakes": 37160.0
+        },
+        "nivel_4": {
+            "numero_indicados": 240,
+            "total_normal": 109,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 129,
+            "total_investido": 84446.0,
+            "total_pix": 696.0,
+            "total_usdt": 2010.0,
+            "total_fakes": 81740.0
+        },
+        "nivel_5": {
+            "numero_indicados": 164,
+            "total_normal": 57,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 106,
+            "total_investido": 180814.0,
+            "total_pix": 274.0,
+            "total_usdt": 3000.0,
+            "total_fakes": 177540.0
+        },
+        "nivel_6": {
+            "numero_indicados": 141,
+            "total_normal": 71,
+            "total_fake": 5,
+            "total_bonus": 0,
+            "total_lider": 65,
+            "total_investido": 87535.9,
+            "total_pix": 224.0,
+            "total_usdt": 361.9,
+            "total_fakes": 86950.0
+        },
+        "nivel_7": {
+            "numero_indicados": 152,
+            "total_normal": 79,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 72,
+            "total_investido": 55994.0,
+            "total_pix": 284.0,
+            "total_usdt": 1150.0,
+            "total_fakes": 54560.0
+        },
+        "nivel_8": {
+            "numero_indicados": 181,
+            "total_normal": 114,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 67,
+            "total_investido": 18030.0,
+            "total_pix": 10.0,
+            "total_usdt": 1340.0,
+            "total_fakes": 16680.0
+        },
+        "nivel_9": {
+            "numero_indicados": 99,
+            "total_normal": 43,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 56,
+            "total_investido": 15180.0,
+            "total_pix": 0.0,
+            "total_usdt": 520.0,
+            "total_fakes": 14660.0
+        },
+        "nivel_10": {
+            "numero_indicados": 57,
+            "total_normal": 29,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 28,
+            "total_investido": 18850.0,
+            "total_pix": 0.0,
+            "total_usdt": 30.0,
+            "total_fakes": 18820.0
+        }
+    }
+}

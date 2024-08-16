@@ -1,0 +1,34 @@
+{
+    "id": 3611,
+    "nome": "Caiu de jesus dos Santos",
+    "email": "caioj4094@gmail.com",
+    "usuario": "Caio_55",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 45.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 45.0
+    },
+    "saidas": {
+        "saques_totais": 10.0,
+        "saques_pix": 10.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 9.19,
+        "ganhos_residual": 5.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 10,
+        "total_normal": 10,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 70.0,
+        "total_pix": 70.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

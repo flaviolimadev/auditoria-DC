@@ -1,0 +1,34 @@
+{
+    "id": 3802,
+    "nome": "Celia Alice de Souza Jaroszewski",
+    "email": "celiaaliceigep@gmail.com",
+    "usuario": "Celysac",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 110.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 60.0
+    },
+    "saidas": {
+        "saques_totais": 24.48,
+        "saques_pix": 24.48,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 48.74,
+        "ganhos_residual": 11.15
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 150.0,
+        "total_pix": 110.0,
+        "total_usdt": 0.0,
+        "total_fakes": 40.0
+    }
+}

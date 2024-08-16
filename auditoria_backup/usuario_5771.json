@@ -1,0 +1,34 @@
+{
+    "id": 5771,
+    "nome": "Marcos Antonio Peretti",
+    "email": "marcosperetti1971@gmail.com",
+    "usuario": "PERETTI",
+    "contato": "65981548222",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 190.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 190.0
+    },
+    "saidas": {
+        "saques_totais": 105.0,
+        "saques_pix": 105.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 38.07,
+        "ganhos_residual": 88.58
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 1502.0,
+        "total_pix": 1502.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

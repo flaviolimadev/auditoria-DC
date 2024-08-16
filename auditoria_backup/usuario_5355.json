@@ -1,0 +1,34 @@
+{
+    "id": 5355,
+    "nome": "Jorman perez",
+    "email": "j710neobux@gmail.com",
+    "usuario": "Jorman710",
+    "contato": "04149476748",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 22.0,
+        "saques_pix": 0,
+        "saques_usdt": 22.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 23.22,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 0,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 100.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 100.0
+    }
+}

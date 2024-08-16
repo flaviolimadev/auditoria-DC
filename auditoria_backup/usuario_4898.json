@@ -1,0 +1,34 @@
+{
+    "id": 4898,
+    "nome": "Osni frare",
+    "email": "osnifr02@gmail.com",
+    "usuario": "Osni01",
+    "contato": "45999863319",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 2.65,
+        "ganhos_residual": 0.8
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 1,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 20.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 10.0
+    }
+}

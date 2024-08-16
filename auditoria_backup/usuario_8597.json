@@ -1,0 +1,34 @@
+{
+    "id": 8597,
+    "nome": "Wesley Martins",
+    "email": "wesleyhumorista@hotmail.com",
+    "usuario": "Sousa1",
+    "contato": "5562984734217",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 30.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0.54,
+        "ganhos_residual": 0.81
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 4,
+        "total_normal": 4,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 150.0,
+        "total_pix": 150.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

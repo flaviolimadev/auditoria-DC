@@ -1,0 +1,34 @@
+{
+    "id": 6487,
+    "nome": "Gilberto",
+    "email": "gilbertokauaceiaamorm2022@gmail.com",
+    "usuario": "Henrique",
+    "contato": "19998563912",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0,
+        "ganhos_residual": 3.24
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 13,
+        "total_normal": 13,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 60.0,
+        "total_pix": 60.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

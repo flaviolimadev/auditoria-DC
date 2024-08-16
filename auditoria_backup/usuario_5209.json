@@ -1,0 +1,34 @@
+{
+    "id": 5209,
+    "nome": "Eloidino Ramos",
+    "email": "tchora16@hotmail.com",
+    "usuario": "Tchora",
+    "contato": "912843904",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 900.0,
+        "entradas_usdt": 650.0,
+        "entradas_fakes": 250.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 164.6,
+        "saques_pix": 0,
+        "saques_usdt": 164.6
+    },
+    "ganhos": {
+        "ganhos_rendimento": 196.29,
+        "ganhos_residual": 8.46
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 1,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 210.0,
+        "total_pix": 0.0,
+        "total_usdt": 140.0,
+        "total_fakes": 70.0
+    }
+}

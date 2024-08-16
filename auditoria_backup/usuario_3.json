@@ -1,0 +1,37 @@
+{
+    "id": 3,
+    "nome": "Digital Club",
+    "email": "admin@admin.com",
+    "usuario": "digitalclub",
+    "contato": "1234",
+    "patrocinador": {
+        "nome": "Digital Club",
+        "usuario": "digitalclub02"
+    },
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 0.0,
+        "saques_pix": 0.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 6.08,
+        "ganhos_residual": 2414.95
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 230,
+        "total_normal": 209,
+        "total_fake": 12,
+        "total_bonus": 0,
+        "total_lider": 9,
+        "total_investido": 258568.09,
+        "total_pix": 1185.59,
+        "total_usdt": 448.5,
+        "total_fakes": 256934.0
+    }
+}

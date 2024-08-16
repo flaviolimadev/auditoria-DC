@@ -1,0 +1,135 @@
+{
+    "nome": "Jos\u00e9 lima",
+    "email": "wislleylima@hotmail.com",
+    "usuario": "Joselima",
+    "contato": null,
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 151.85,
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 184.78,
+        "saques_pix": 184.78,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 289.9,
+        "ganhos_residual": 46.73
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 2,
+            "total_normal": 1,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10010.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 10010.0
+        },
+        "nivel_2": {
+            "numero_indicados": 22,
+            "total_normal": 16,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 6,
+            "total_investido": 2100.77,
+            "total_pix": 80.77,
+            "total_usdt": 0.0,
+            "total_fakes": 2020.0
+        },
+        "nivel_3": {
+            "numero_indicados": 102,
+            "total_normal": 97,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 4,
+            "total_investido": 4762.0,
+            "total_pix": 452.0,
+            "total_usdt": 2000.0,
+            "total_fakes": 2310.0
+        },
+        "nivel_4": {
+            "numero_indicados": 37,
+            "total_normal": 37,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 4500.0,
+            "total_pix": 10.0,
+            "total_usdt": 3000.0,
+            "total_fakes": 1490.0
+        },
+        "nivel_5": {
+            "numero_indicados": 4,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 100.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 100.0
+        },
+        "nivel_6": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

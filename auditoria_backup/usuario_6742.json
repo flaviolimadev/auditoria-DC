@@ -1,0 +1,34 @@
+{
+    "id": 6742,
+    "nome": "Luisa Betini Ribeiro",
+    "email": "luli.betini.ribeiro.lr@gmail.com",
+    "usuario": "Luhbetini",
+    "contato": "61982897741",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 120.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 120.0
+    },
+    "saidas": {
+        "saques_totais": 23.15,
+        "saques_pix": 0,
+        "saques_usdt": 23.15
+    },
+    "ganhos": {
+        "ganhos_rendimento": 20.06,
+        "ganhos_residual": 10.6
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 5,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 210.0,
+        "total_pix": 210.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

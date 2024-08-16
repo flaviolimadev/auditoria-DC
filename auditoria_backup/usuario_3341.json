@@ -1,0 +1,37 @@
+{
+    "id": 3341,
+    "nome": "jorge  menezes",
+    "email": "jorgemenezesav@gmail.com",
+    "usuario": "jorgeav",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 1086.0,
+        "entradas_usdt": 10.0,
+        "entradas_fakes": 170.0,
+        "entradas_pix": 906.0
+    },
+    "saidas": {
+        "saques_totais": 443.43,
+        "saques_pix": 443.43,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 461.85,
+        "ganhos_residual": 1.46
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

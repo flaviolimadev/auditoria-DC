@@ -1,0 +1,135 @@
+{
+    "nome": "Fabio Ramos Da Mota",
+    "email": "fabioramos2610@gmail.com",
+    "usuario": "Fabiobitcoin",
+    "contato": "61993708874",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 3.33,
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 17.62,
+        "saques_pix": 17.62,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3.84,
+        "ganhos_residual": 17.11
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 11,
+            "total_normal": 2,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 8,
+            "total_investido": 280.0,
+            "total_pix": 170.0,
+            "total_usdt": 0.0,
+            "total_fakes": 110.0
+        },
+        "nivel_2": {
+            "numero_indicados": 4,
+            "total_normal": 4,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 420.0,
+            "total_pix": 420.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_3": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 250.0,
+            "total_pix": 250.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_4": {
+            "numero_indicados": 2,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

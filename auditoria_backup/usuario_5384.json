@@ -1,0 +1,34 @@
+{
+    "id": 5384,
+    "nome": "JOS\u00c9 ALMEIDA DAS VIRGENS",
+    "email": "josealmeidavirgens@gmail.com",
+    "usuario": "josealmeida",
+    "contato": "73988017019",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 40.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 20.0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 8.72,
+        "ganhos_residual": 5.82
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 90.0,
+        "total_pix": 40.0,
+        "total_usdt": 0.0,
+        "total_fakes": 50.0
+    }
+}

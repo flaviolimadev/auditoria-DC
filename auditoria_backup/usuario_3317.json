@@ -1,0 +1,37 @@
+{
+    "id": 3317,
+    "nome": "Breno Duarte Paerehrino",
+    "email": "divinocmc1@gmail.com",
+    "usuario": "topbrasil",
+    "contato": "84999812762",
+    "patrocinador": {
+        "nome": "Camila Pereira de Jesus ",
+        "usuario": "Topbrasil1"
+    },
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 331.33,
+        "saques_pix": 331.33,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0.0,
+        "ganhos_residual": 333.34
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 17,
+        "total_normal": 11,
+        "total_fake": 3,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 8220.38,
+        "total_pix": 1682.0,
+        "total_usdt": 340.0,
+        "total_fakes": 6198.38
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 3380,
+    "nome": "Ricardo Reis De Moraes",
+    "email": "traderricardo71@gmail.com",
+    "usuario": "Fenixtrader",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Samuel Gon\u00e7alves de Almeida",
+        "usuario": "Samucabff"
+    },
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 0.0,
+        "saques_pix": 0.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 6.32,
+        "ganhos_residual": 2.95
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 22.0,
+        "total_pix": 22.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

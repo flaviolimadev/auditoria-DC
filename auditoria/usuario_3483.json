@@ -1,0 +1,135 @@
+{
+    "nome": "Nair Aparecida Favaro",
+    "email": "jeovahpaulo64@gmail.com",
+    "usuario": "Othon77",
+    "contato": null,
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 329.53,
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 295.4,
+        "ganhos_residual": 34.13
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 30,
+            "total_normal": 4,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 25,
+            "total_investido": 337.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 317.0
+        },
+        "nivel_2": {
+            "numero_indicados": 53,
+            "total_normal": 18,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 33,
+            "total_investido": 660.0,
+            "total_pix": 20.0,
+            "total_usdt": 10.0,
+            "total_fakes": 630.0
+        },
+        "nivel_3": {
+            "numero_indicados": 39,
+            "total_normal": 31,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 8,
+            "total_investido": 768.0,
+            "total_pix": 198.0,
+            "total_usdt": 0.0,
+            "total_fakes": 570.0
+        },
+        "nivel_4": {
+            "numero_indicados": 23,
+            "total_normal": 20,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 745.0,
+            "total_pix": 225.0,
+            "total_usdt": 0.0,
+            "total_fakes": 520.0
+        },
+        "nivel_5": {
+            "numero_indicados": 3,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 10.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 10.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

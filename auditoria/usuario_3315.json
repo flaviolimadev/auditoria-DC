@@ -1,0 +1,135 @@
+{
+    "nome": "Trindade",
+    "email": "empresaeuabr@gmail.com",
+    "usuario": "prosperidade",
+    "contato": null,
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 81.04,
+    "entradas": {
+        "entradas_totais": 5010.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 5010.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 3678.0,
+        "saques_pix": 3678.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3014.9,
+        "ganhos_residual": 517.25
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 10,
+            "total_normal": 9,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 6700.0,
+            "total_pix": 1060.0,
+            "total_usdt": 0.0,
+            "total_fakes": 5640.0
+        },
+        "nivel_2": {
+            "numero_indicados": 19,
+            "total_normal": 15,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 3985.02,
+            "total_pix": 664.1,
+            "total_usdt": 0.0,
+            "total_fakes": 3320.92
+        },
+        "nivel_3": {
+            "numero_indicados": 233,
+            "total_normal": 202,
+            "total_fake": 16,
+            "total_bonus": 0,
+            "total_lider": 15,
+            "total_investido": 18994.23,
+            "total_pix": 7992.23,
+            "total_usdt": 3252.0,
+            "total_fakes": 7750.0
+        },
+        "nivel_4": {
+            "numero_indicados": 201,
+            "total_normal": 131,
+            "total_fake": 32,
+            "total_bonus": 0,
+            "total_lider": 38,
+            "total_investido": 18972.67,
+            "total_pix": 9424.67,
+            "total_usdt": 3195.0,
+            "total_fakes": 6353.0
+        },
+        "nivel_5": {
+            "numero_indicados": 369,
+            "total_normal": 247,
+            "total_fake": 35,
+            "total_bonus": 0,
+            "total_lider": 87,
+            "total_investido": 54072.8,
+            "total_pix": 6481.3,
+            "total_usdt": 30645.5,
+            "total_fakes": 16946.0
+        },
+        "nivel_6": {
+            "numero_indicados": 320,
+            "total_normal": 219,
+            "total_fake": 68,
+            "total_bonus": 1,
+            "total_lider": 32,
+            "total_investido": 27519.0,
+            "total_pix": 8814.0,
+            "total_usdt": 2513.0,
+            "total_fakes": 16192.0
+        },
+        "nivel_7": {
+            "numero_indicados": 161,
+            "total_normal": 121,
+            "total_fake": 15,
+            "total_bonus": 0,
+            "total_lider": 25,
+            "total_investido": 5773.0,
+            "total_pix": 1893.0,
+            "total_usdt": 500.0,
+            "total_fakes": 3380.0
+        },
+        "nivel_8": {
+            "numero_indicados": 110,
+            "total_normal": 52,
+            "total_fake": 18,
+            "total_bonus": 0,
+            "total_lider": 40,
+            "total_investido": 5625.0,
+            "total_pix": 2735.0,
+            "total_usdt": 0.0,
+            "total_fakes": 2890.0
+        },
+        "nivel_9": {
+            "numero_indicados": 168,
+            "total_normal": 126,
+            "total_fake": 6,
+            "total_bonus": 0,
+            "total_lider": 36,
+            "total_investido": 3645.55,
+            "total_pix": 2025.55,
+            "total_usdt": 540.0,
+            "total_fakes": 1080.0
+        },
+        "nivel_10": {
+            "numero_indicados": 81,
+            "total_normal": 70,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 10,
+            "total_investido": 1777.0,
+            "total_pix": 1070.0,
+            "total_usdt": 397.0,
+            "total_fakes": 310.0
+        }
+    }
+}

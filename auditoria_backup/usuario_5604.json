@@ -1,0 +1,34 @@
+{
+    "id": 5604,
+    "nome": "Garage oitocentos",
+    "email": "rosemeiredacrz@gmail.com",
+    "usuario": "Rosecruz",
+    "contato": "69985016251",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3.99,
+        "ganhos_residual": 1.14
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 29,
+        "total_normal": 16,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 13,
+        "total_investido": 170.0,
+        "total_pix": 30.0,
+        "total_usdt": 0.0,
+        "total_fakes": 140.0
+    }
+}

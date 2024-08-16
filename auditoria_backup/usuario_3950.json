@@ -1,0 +1,34 @@
+{
+    "id": 3950,
+    "nome": "Givanildo Pereira da Silva",
+    "email": "givanildop708@gmail.com",
+    "usuario": "Givanildo05",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 210.0,
+        "entradas_usdt": 47.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 163.0
+    },
+    "saidas": {
+        "saques_totais": 32.7,
+        "saques_pix": 32.7,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 59.8,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

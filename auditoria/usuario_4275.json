@@ -1,0 +1,135 @@
+{
+    "nome": "SUNIL T J",
+    "email": "bittrendz@gmail.com",
+    "usuario": "TRENDZ",
+    "contato": null,
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 603.63,
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 2000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 60.0,
+        "saques_pix": 0,
+        "saques_usdt": 60.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 634.8,
+        "ganhos_residual": 28.83
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 35,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 34,
+            "total_investido": 66010.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 66010.0
+        },
+        "nivel_2": {
+            "numero_indicados": 94,
+            "total_normal": 40,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 51,
+            "total_investido": 71461.9,
+            "total_pix": 0.0,
+            "total_usdt": 361.9,
+            "total_fakes": 71100.0
+        },
+        "nivel_3": {
+            "numero_indicados": 127,
+            "total_normal": 59,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 67,
+            "total_investido": 54150.0,
+            "total_pix": 0.0,
+            "total_usdt": 1150.0,
+            "total_fakes": 53000.0
+        },
+        "nivel_4": {
+            "numero_indicados": 175,
+            "total_normal": 108,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 67,
+            "total_investido": 18020.0,
+            "total_pix": 0.0,
+            "total_usdt": 1340.0,
+            "total_fakes": 16680.0
+        },
+        "nivel_5": {
+            "numero_indicados": 99,
+            "total_normal": 43,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 56,
+            "total_investido": 15180.0,
+            "total_pix": 0.0,
+            "total_usdt": 520.0,
+            "total_fakes": 14660.0
+        },
+        "nivel_6": {
+            "numero_indicados": 57,
+            "total_normal": 29,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 28,
+            "total_investido": 18850.0,
+            "total_pix": 0.0,
+            "total_usdt": 30.0,
+            "total_fakes": 18820.0
+        },
+        "nivel_7": {
+            "numero_indicados": 35,
+            "total_normal": 16,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 19,
+            "total_investido": 10200.0,
+            "total_pix": 0.0,
+            "total_usdt": 1100.0,
+            "total_fakes": 9100.0
+        },
+        "nivel_8": {
+            "numero_indicados": 34,
+            "total_normal": 13,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 21,
+            "total_investido": 5270.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 5270.0
+        },
+        "nivel_9": {
+            "numero_indicados": 31,
+            "total_normal": 17,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 14,
+            "total_investido": 1010.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1010.0
+        },
+        "nivel_10": {
+            "numero_indicados": 7,
+            "total_normal": 4,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 300.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 300.0
+        }
+    }
+}

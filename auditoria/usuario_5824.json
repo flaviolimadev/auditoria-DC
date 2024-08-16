@@ -1,0 +1,135 @@
+{
+    "nome": "Marcio cruz",
+    "email": "clubm10@gmail.com",
+    "usuario": "Team10",
+    "contato": "119992773626",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 140.56,
+    "entradas": {
+        "entradas_totais": 450.0,
+        "entradas_usdt": 130.0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 310.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 42.89,
+        "ganhos_residual": 97.67
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 1,
+            "total_normal": 0,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 2500.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 2500.0
+        },
+        "nivel_2": {
+            "numero_indicados": 2,
+            "total_normal": 0,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 1100.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1100.0
+        },
+        "nivel_3": {
+            "numero_indicados": 4,
+            "total_normal": 2,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 21160.0,
+            "total_pix": 60.0,
+            "total_usdt": 0.0,
+            "total_fakes": 21100.0
+        },
+        "nivel_4": {
+            "numero_indicados": 97,
+            "total_normal": 66,
+            "total_fake": 7,
+            "total_bonus": 0,
+            "total_lider": 24,
+            "total_investido": 31654.0,
+            "total_pix": 15733.0,
+            "total_usdt": 1500.0,
+            "total_fakes": 14421.0
+        },
+        "nivel_5": {
+            "numero_indicados": 179,
+            "total_normal": 100,
+            "total_fake": 8,
+            "total_bonus": 0,
+            "total_lider": 71,
+            "total_investido": 15300.8,
+            "total_pix": 3520.8,
+            "total_usdt": 60.0,
+            "total_fakes": 11720.0
+        },
+        "nivel_6": {
+            "numero_indicados": 97,
+            "total_normal": 67,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 30,
+            "total_investido": 10027.0,
+            "total_pix": 947.0,
+            "total_usdt": 0.0,
+            "total_fakes": 9080.0
+        },
+        "nivel_7": {
+            "numero_indicados": 132,
+            "total_normal": 70,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 62,
+            "total_investido": 17159.0,
+            "total_pix": 1759.0,
+            "total_usdt": 0.0,
+            "total_fakes": 15400.0
+        },
+        "nivel_8": {
+            "numero_indicados": 120,
+            "total_normal": 61,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 58,
+            "total_investido": 9601.76,
+            "total_pix": 1297.0,
+            "total_usdt": 20.0,
+            "total_fakes": 8284.76
+        },
+        "nivel_9": {
+            "numero_indicados": 72,
+            "total_normal": 43,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 29,
+            "total_investido": 5084.0,
+            "total_pix": 2464.0,
+            "total_usdt": 200.0,
+            "total_fakes": 2420.0
+        },
+        "nivel_10": {
+            "numero_indicados": 30,
+            "total_normal": 23,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 4,
+            "total_investido": 5943.0,
+            "total_pix": 3803.0,
+            "total_usdt": 560.0,
+            "total_fakes": 1580.0
+        }
+    }
+}

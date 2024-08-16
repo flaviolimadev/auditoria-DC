@@ -1,0 +1,34 @@
+{
+    "id": 7912,
+    "nome": "Danilo natali da Silva",
+    "email": "Danillosilva354@gmail.com",
+    "usuario": "Danilo354",
+    "contato": "48985067420",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 9.0,
+        "saques_pix": 9.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 10.52,
+        "ganhos_residual": 0.59
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 4,
+        "total_investido": 540.0,
+        "total_pix": 490.0,
+        "total_usdt": 0.0,
+        "total_fakes": 50.0
+    }
+}

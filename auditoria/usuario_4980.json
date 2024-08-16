@@ -1,0 +1,135 @@
+{
+    "nome": "Fernanda Cristina dos santos",
+    "email": "mkbritobrito89@gmail.com",
+    "usuario": "brito10",
+    "contato": "19993432877",
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 8.41,
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 18.0,
+        "saques_pix": 18.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 25.78,
+        "ganhos_residual": 0.63
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 13,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 12,
+            "total_investido": 480.0,
+            "total_pix": 30.0,
+            "total_usdt": 0.0,
+            "total_fakes": 450.0
+        },
+        "nivel_2": {
+            "numero_indicados": 45,
+            "total_normal": 17,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 27,
+            "total_investido": 910.0,
+            "total_pix": 70.0,
+            "total_usdt": 200.0,
+            "total_fakes": 640.0
+        },
+        "nivel_3": {
+            "numero_indicados": 4,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 100.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 100.0
+        },
+        "nivel_4": {
+            "numero_indicados": 4,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 65.0,
+            "total_pix": 35.0,
+            "total_usdt": 0.0,
+            "total_fakes": 30.0
+        },
+        "nivel_5": {
+            "numero_indicados": 2,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 30.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 10.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

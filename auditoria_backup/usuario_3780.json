@@ -1,0 +1,34 @@
+{
+    "id": 3780,
+    "nome": "LUCIANA MARQUES DA SILVA CAMPOS",
+    "email": "lbraganca.lm@gmail.com",
+    "usuario": "Luciana",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 17.0,
+        "saques_pix": 17.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 56.72,
+        "ganhos_residual": 0.76
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 38,
+        "total_normal": 4,
+        "total_fake": 28,
+        "total_bonus": 0,
+        "total_lider": 6,
+        "total_investido": 690.0,
+        "total_pix": 70.0,
+        "total_usdt": 0.0,
+        "total_fakes": 620.0
+    }
+}

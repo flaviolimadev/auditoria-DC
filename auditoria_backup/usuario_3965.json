@@ -1,0 +1,34 @@
+{
+    "id": 3965,
+    "nome": "Rento Martins Braga",
+    "email": "rbraga61@yahoo.com.br",
+    "usuario": "Lidervip",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 45.0,
+        "saques_pix": 45.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 81.04,
+        "ganhos_residual": 16.47
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 8,
+        "total_normal": 7,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 400.0,
+        "total_pix": 300.0,
+        "total_usdt": 0.0,
+        "total_fakes": 100.0
+    }
+}

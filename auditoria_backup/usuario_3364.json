@@ -1,0 +1,37 @@
+{
+    "id": 3364,
+    "nome": "Giane Rufino Leandro",
+    "email": "trabalhecomorufino@gmail.com",
+    "usuario": "Joabe77",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Danilo Paranhos gomes",
+        "usuario": "Danilo"
+    },
+    "entradas": {
+        "entradas_totais": 400.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 210.0,
+        "entradas_pix": 190.0
+    },
+    "saidas": {
+        "saques_totais": 365.99,
+        "saques_pix": 365.99,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 113.22,
+        "ganhos_residual": 231.19
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 41,
+        "total_normal": 40,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 2450.0,
+        "total_pix": 2272.0,
+        "total_usdt": 10.0,
+        "total_fakes": 168.0
+    }
+}

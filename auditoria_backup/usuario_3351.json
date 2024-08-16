@@ -1,0 +1,37 @@
+{
+    "id": 3351,
+    "nome": "Maximo Pizeta",
+    "email": "pizetamaximo@gmail.com",
+    "usuario": "Pizeta01",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jo\u00e3o Batista Ferreira Alves",
+        "usuario": "JBatista"
+    },
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 50.0
+    },
+    "saidas": {
+        "saques_totais": 24.0,
+        "saques_pix": 24.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 22.85,
+        "ganhos_residual": 2.22
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 60.0,
+        "total_pix": 40.0,
+        "total_usdt": 0.0,
+        "total_fakes": 20.0
+    }
+}

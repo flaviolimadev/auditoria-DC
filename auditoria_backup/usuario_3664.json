@@ -1,0 +1,34 @@
+{
+    "id": 3664,
+    "nome": "Luciano Emiliano",
+    "email": "lucianoemiliano529@gmail.com",
+    "usuario": "Mdk999",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 65.0,
+        "saques_pix": 35.0,
+        "saques_usdt": 30.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 160.87,
+        "ganhos_residual": 1.5
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 3,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 2,
+        "total_investido": 1010.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 1010.0
+    }
+}

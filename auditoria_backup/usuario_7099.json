@@ -1,0 +1,34 @@
+{
+    "id": 7099,
+    "nome": "Evandro A. Almeida",
+    "email": "evandroalmeida111@outlook.com",
+    "usuario": "DigitalLD",
+    "contato": "43988143874",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 83.09,
+        "saques_pix": 83.09,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 84.9,
+        "ganhos_residual": 3.77
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 34,
+        "total_normal": 22,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 12,
+        "total_investido": 1067.0,
+        "total_pix": 327.0,
+        "total_usdt": 0.0,
+        "total_fakes": 740.0
+    }
+}

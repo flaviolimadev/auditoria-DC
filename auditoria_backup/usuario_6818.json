@@ -1,0 +1,34 @@
+{
+    "id": 6818,
+    "nome": "Mushtaque Ahmed",
+    "email": "m.mam86@gmail.com",
+    "usuario": "Saad786",
+    "contato": "9019890033",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 60.75,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 4732,
+    "nome": "Carlos Lazaro",
+    "email": "carlos.lazaro.crypto@gmail.com",
+    "usuario": "registro",
+    "contato": "21996708759",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 48.2,
+        "saques_pix": 48.2,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 53.24,
+        "ganhos_residual": 0.93
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 14,
+        "total_normal": 14,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 21.0,
+        "total_pix": 21.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

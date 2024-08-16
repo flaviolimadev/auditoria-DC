@@ -1,0 +1,34 @@
+{
+    "id": 5727,
+    "nome": "Ishan Ahmad",
+    "email": "ishan291990@gmail.com",
+    "usuario": "Ishan786",
+    "contato": "9015306338",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 20.86,
+        "ganhos_residual": 0.61
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 7,
+        "total_normal": 3,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 4,
+        "total_investido": 410.0,
+        "total_pix": 0.0,
+        "total_usdt": 10.0,
+        "total_fakes": 400.0
+    }
+}

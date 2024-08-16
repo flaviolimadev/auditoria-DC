@@ -1,0 +1,34 @@
+{
+    "id": 4096,
+    "nome": "MARCELO MACHADO",
+    "email": "escoladoslideres@gmail.com",
+    "usuario": "CADASTRO",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 56.44,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 7,
+        "total_normal": 4,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 410.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 410.0
+    }
+}

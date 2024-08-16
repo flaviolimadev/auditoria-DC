@@ -1,0 +1,34 @@
+{
+    "id": 7318,
+    "nome": "Luzia Helena de Jesus",
+    "email": "josafa.amakhaparis@gmail.com",
+    "usuario": "luziajesus",
+    "contato": "34991835567",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 600.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 600.0
+    },
+    "saidas": {
+        "saques_totais": 94.42,
+        "saques_pix": 94.42,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 92.1,
+        "ganhos_residual": 9.26
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 200.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 200.0
+    }
+}

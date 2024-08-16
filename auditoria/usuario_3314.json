@@ -1,0 +1,135 @@
+{
+    "nome": "Romero Ara\u00fajo",
+    "email": "kingromerito@gmail.com",
+    "usuario": "kingromerito",
+    "contato": "81979077577",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 220.69,
+    "entradas": {
+        "entradas_totais": 10010.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10010.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 7840.0,
+        "saques_pix": 7840.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 5940.4,
+        "ganhos_residual": 1796.13
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 25,
+            "total_normal": 7,
+            "total_fake": 13,
+            "total_bonus": 1,
+            "total_lider": 4,
+            "total_investido": 40958.0,
+            "total_pix": 7528.0,
+            "total_usdt": 1830.0,
+            "total_fakes": 31600.0
+        },
+        "nivel_2": {
+            "numero_indicados": 183,
+            "total_normal": 137,
+            "total_fake": 6,
+            "total_bonus": 0,
+            "total_lider": 40,
+            "total_investido": 40575.47,
+            "total_pix": 6375.47,
+            "total_usdt": 3740.0,
+            "total_fakes": 30460.0
+        },
+        "nivel_3": {
+            "numero_indicados": 311,
+            "total_normal": 181,
+            "total_fake": 20,
+            "total_bonus": 0,
+            "total_lider": 110,
+            "total_investido": 28534.93,
+            "total_pix": 10575.01,
+            "total_usdt": 324.0,
+            "total_fakes": 17635.92
+        },
+        "nivel_4": {
+            "numero_indicados": 432,
+            "total_normal": 309,
+            "total_fake": 27,
+            "total_bonus": 0,
+            "total_lider": 96,
+            "total_investido": 70152.61,
+            "total_pix": 12924.23,
+            "total_usdt": 4270.0,
+            "total_fakes": 52958.38
+        },
+        "nivel_5": {
+            "numero_indicados": 668,
+            "total_normal": 510,
+            "total_fake": 59,
+            "total_bonus": 0,
+            "total_lider": 99,
+            "total_investido": 71288.64,
+            "total_pix": 30433.64,
+            "total_usdt": 5166.0,
+            "total_fakes": 35689.0
+        },
+        "nivel_6": {
+            "numero_indicados": 757,
+            "total_normal": 519,
+            "total_fake": 46,
+            "total_bonus": 0,
+            "total_lider": 192,
+            "total_investido": 110735.37,
+            "total_pix": 12203.87,
+            "total_usdt": 30785.5,
+            "total_fakes": 67746.0
+        },
+        "nivel_7": {
+            "numero_indicados": 732,
+            "total_normal": 463,
+            "total_fake": 72,
+            "total_bonus": 1,
+            "total_lider": 196,
+            "total_investido": 122642.0,
+            "total_pix": 10857.0,
+            "total_usdt": 4523.0,
+            "total_fakes": 107262.0
+        },
+        "nivel_8": {
+            "numero_indicados": 474,
+            "total_normal": 264,
+            "total_fake": 16,
+            "total_bonus": 0,
+            "total_lider": 194,
+            "total_investido": 203796.0,
+            "total_pix": 3966.0,
+            "total_usdt": 3500.0,
+            "total_fakes": 196330.0
+        },
+        "nivel_9": {
+            "numero_indicados": 432,
+            "total_normal": 245,
+            "total_fake": 24,
+            "total_bonus": 0,
+            "total_lider": 163,
+            "total_investido": 103182.66,
+            "total_pix": 4676.0,
+            "total_usdt": 381.9,
+            "total_fakes": 98124.76
+        },
+        "nivel_10": {
+            "numero_indicados": 421,
+            "total_normal": 277,
+            "total_fake": 7,
+            "total_bonus": 0,
+            "total_lider": 137,
+            "total_investido": 64803.55,
+            "total_pix": 4843.55,
+            "total_usdt": 1900.0,
+            "total_fakes": 58060.0
+        }
+    }
+}

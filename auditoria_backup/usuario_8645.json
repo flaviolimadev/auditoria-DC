@@ -1,0 +1,34 @@
+{
+    "id": 8645,
+    "nome": "Miqueias Castro de S\u00e1 Lima",
+    "email": "miqueiaslsdcm@gmail.com",
+    "usuario": "mcastrodf",
+    "contato": "61996577279",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 870.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 870.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 33.59,
+        "ganhos_residual": 0.08
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

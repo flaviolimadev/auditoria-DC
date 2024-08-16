@@ -1,0 +1,37 @@
+{
+    "id": 3368,
+    "nome": "Antonio marcos macedo Ribeiro da Silva",
+    "email": "marcos9ribeiro@gmail.com",
+    "usuario": "Marcos",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Giane Rufino Leandro",
+        "usuario": "Joabe77"
+    },
+    "entradas": {
+        "entradas_totais": 150.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 30.0,
+        "entradas_pix": 120.0
+    },
+    "saidas": {
+        "saques_totais": 53.0,
+        "saques_pix": 53.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 55.75,
+        "ganhos_residual": 0.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

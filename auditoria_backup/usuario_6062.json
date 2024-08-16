@@ -1,0 +1,34 @@
+{
+    "id": 6062,
+    "nome": "Josu\u00e9 Pereira de Souza",
+    "email": "joccb1@gmail.com",
+    "usuario": "J\u00f4 2024",
+    "contato": "11982587377",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 38.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 38.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 2.3,
+        "ganhos_residual": 0.41
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 5,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 140.0,
+        "total_pix": 140.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

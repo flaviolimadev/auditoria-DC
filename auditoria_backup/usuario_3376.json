@@ -1,0 +1,37 @@
+{
+    "id": 3376,
+    "nome": "Samuel Gon\u00e7alves de Almeida",
+    "email": "samucaebex@gmail.com",
+    "usuario": "Samucabff",
+    "contato": null,
+    "patrocinador": {
+        "nome": "THIAGO ANCELMO DA SILVA",
+        "usuario": "Flamito10"
+    },
+    "entradas": {
+        "entradas_totais": 25.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 25.0
+    },
+    "saidas": {
+        "saques_totais": 14.62,
+        "saques_pix": 14.62,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 15.79,
+        "ganhos_residual": 2.53
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

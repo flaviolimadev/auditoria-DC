@@ -1,0 +1,34 @@
+{
+    "id": 5113,
+    "nome": "Luana Costa",
+    "email": "viralizouachados@gmail.com",
+    "usuario": "clubdigital",
+    "contato": "19992795885",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 10.0,
+        "saques_pix": 10.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 2.54,
+        "ganhos_residual": 10.73
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 10010.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 10000.0
+    }
+}

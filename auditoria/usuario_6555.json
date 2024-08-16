@@ -1,0 +1,135 @@
+{
+    "nome": "JAYA PRABHU P",
+    "email": "jayaprabhu1965@gmail.com",
+    "usuario": "JOTHY12345",
+    "contato": "7025430176",
+    "tipo_conta": "NORMAL",
+    "saldo_disponivel": 0.0,
+    "entradas": {
+        "entradas_totais": 0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0,
+        "ganhos_residual": 0
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 7,
+            "total_normal": 4,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 3500.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 3500.0
+        },
+        "nivel_2": {
+            "numero_indicados": 13,
+            "total_normal": 7,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 6,
+            "total_investido": 5000.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 5000.0
+        },
+        "nivel_3": {
+            "numero_indicados": 9,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 7,
+            "total_investido": 4700.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 4700.0
+        },
+        "nivel_4": {
+            "numero_indicados": 10,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 7,
+            "total_investido": 3700.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 3700.0
+        },
+        "nivel_5": {
+            "numero_indicados": 18,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 15,
+            "total_investido": 4670.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 4670.0
+        },
+        "nivel_6": {
+            "numero_indicados": 19,
+            "total_normal": 9,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 10,
+            "total_investido": 610.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 610.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

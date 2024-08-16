@@ -1,0 +1,34 @@
+{
+    "id": 7255,
+    "nome": "Augusto Vinicius",
+    "email": "viiniciusamanajas221085@gmail.com",
+    "usuario": "viniaugusto",
+    "contato": "33766664389",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 100.0
+    },
+    "saidas": {
+        "saques_totais": 18.0,
+        "saques_pix": 18.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 28.58,
+        "ganhos_residual": 0.27
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 4,
+        "total_normal": 4,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

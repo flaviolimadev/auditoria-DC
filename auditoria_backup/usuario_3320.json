@@ -1,0 +1,37 @@
+{
+    "id": 3320,
+    "nome": "Bruno Angelo Ribeiro da silva",
+    "email": "bruno@benditapeta.com.br",
+    "usuario": "Bruno2681",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Cristiano Jos\u00e9 Santiago da silva",
+        "usuario": "global team"
+    },
+    "entradas": {
+        "entradas_totais": 689.02,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 294.92,
+        "entradas_pix": 394.1
+    },
+    "saidas": {
+        "saques_totais": 537.43,
+        "saques_pix": 537.43,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 379.84,
+        "ganhos_residual": 181.23
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 11,
+        "total_normal": 10,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 1907.23,
+        "total_pix": 1697.23,
+        "total_usdt": 0.0,
+        "total_fakes": 210.0
+    }
+}

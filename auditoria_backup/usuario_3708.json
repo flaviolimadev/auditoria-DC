@@ -1,0 +1,34 @@
+{
+    "id": 3708,
+    "nome": "Daniel Nascimento",
+    "email": "daniel_papa_charles38@yahoo.com",
+    "usuario": "Patriota3822",
+    "contato": "21970083407",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 97.48,
+        "ganhos_residual": 2.4
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 7,
+        "total_normal": 6,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 230.0,
+        "total_pix": 30.0,
+        "total_usdt": 0.0,
+        "total_fakes": 200.0
+    }
+}

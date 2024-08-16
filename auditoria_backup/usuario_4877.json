@@ -1,0 +1,34 @@
+{
+    "id": 4877,
+    "nome": "Anderson Graeff",
+    "email": "investweb.canal@gmail.com",
+    "usuario": "webmundo",
+    "contato": "67984112842",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 5.0,
+        "saques_pix": 5.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 26.38,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 7,
+        "total_normal": 5,
+        "total_fake": 2,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 200.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 200.0
+    }
+}

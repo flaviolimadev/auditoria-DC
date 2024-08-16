@@ -1,0 +1,37 @@
+{
+    "id": 3439,
+    "nome": "Jeov\u00e1 Oliveira dos Santos",
+    "email": "liderjeovah@gmail.com",
+    "usuario": "Clubdf10",
+    "contato": "61982697900",
+    "patrocinador": {
+        "nome": "THIAGO LUIZ LOPES MAIA DE OLIVEIRA",
+        "usuario": "thiagomaia"
+    },
+    "entradas": {
+        "entradas_totais": 1015.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 15.0
+    },
+    "saidas": {
+        "saques_totais": 646.86,
+        "saques_pix": 646.86,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 382.25,
+        "ganhos_residual": 287.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 17,
+        "total_normal": 10,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 7,
+        "total_investido": 4033.0,
+        "total_pix": 2053.0,
+        "total_usdt": 200.0,
+        "total_fakes": 1780.0
+    }
+}

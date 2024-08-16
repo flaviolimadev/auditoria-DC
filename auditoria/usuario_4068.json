@@ -1,0 +1,135 @@
+{
+    "nome": "Pedro Miguel Ferreira de jesus",
+    "email": "cmcmultinivel+1@gmail.com",
+    "usuario": "Topbrasil10",
+    "contato": null,
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 1.53,
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 65.32,
+        "saques_pix": 65.32,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0,
+        "ganhos_residual": 66.85
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 100.0,
+            "total_pix": 100.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_2": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 210.0,
+            "total_pix": 210.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_3": {
+            "numero_indicados": 2,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 2819.0,
+            "total_pix": 1799.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1020.0
+        },
+        "nivel_4": {
+            "numero_indicados": 22,
+            "total_normal": 12,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 8,
+            "total_investido": 930.0,
+            "total_pix": 270.0,
+            "total_usdt": 0.0,
+            "total_fakes": 660.0
+        },
+        "nivel_5": {
+            "numero_indicados": 51,
+            "total_normal": 49,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 510.0,
+            "total_pix": 310.0,
+            "total_usdt": 0.0,
+            "total_fakes": 200.0
+        },
+        "nivel_6": {
+            "numero_indicados": 6,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 870.0,
+            "total_pix": 870.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

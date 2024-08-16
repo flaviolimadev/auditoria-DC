@@ -1,0 +1,34 @@
+{
+    "id": 6651,
+    "nome": "Alex Sandro de Oliveira Nascimento",
+    "email": "acad.alexx2@gmail.com",
+    "usuario": "Agentec",
+    "contato": "96991534270",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 115.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 15.0
+    },
+    "saidas": {
+        "saques_totais": 49.41,
+        "saques_pix": 49.41,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 19.43,
+        "ganhos_residual": 35.52
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 11,
+        "total_normal": 11,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 569.0,
+        "total_pix": 569.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

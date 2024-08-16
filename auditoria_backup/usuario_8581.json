@@ -1,0 +1,34 @@
+{
+    "id": 8581,
+    "nome": "LUIZ SILVESTRE FRANCISCO FILHO",
+    "email": "luizieadpvbg@gmail.com",
+    "usuario": "SILVESTRE4",
+    "contato": "27996110438",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0.85,
+        "ganhos_residual": 0.06
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 3,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 25.0,
+        "total_pix": 25.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

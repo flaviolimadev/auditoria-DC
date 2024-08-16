@@ -1,0 +1,37 @@
+{
+    "id": 3424,
+    "nome": "THIAGO LUIZ LOPES MAIA DE OLIVEIRA",
+    "email": "thiagomaia99@gmail.com",
+    "usuario": "thiagomaia",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Divino jose ferreira",
+        "usuario": "Topnatal"
+    },
+    "entradas": {
+        "entradas_totais": 120.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 120.0
+    },
+    "saidas": {
+        "saques_totais": 124.0,
+        "saques_pix": 124.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 17.06,
+        "ganhos_residual": 109.98
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 1025.0,
+        "total_pix": 15.0,
+        "total_usdt": 0.0,
+        "total_fakes": 1010.0
+    }
+}

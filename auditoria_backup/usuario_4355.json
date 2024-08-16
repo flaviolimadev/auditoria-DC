@@ -1,0 +1,34 @@
+{
+    "id": 4355,
+    "nome": "SAJITH P",
+    "email": "sajithpoduval2@gmail.com",
+    "usuario": "CRIPTO",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 2000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 579.6,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 500.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 500.0
+    }
+}

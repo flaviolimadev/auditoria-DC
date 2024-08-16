@@ -1,0 +1,34 @@
+{
+    "id": 6111,
+    "nome": "Rodrigues Ribeiro dos Santos",
+    "email": "rodriguesantos.r@gmail.com",
+    "usuario": "rodrigues",
+    "contato": "34999833887",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1760.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 1760.0
+    },
+    "saidas": {
+        "saques_totais": 280.0,
+        "saques_pix": 280.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 355.22,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 0,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 930.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 930.0
+    }
+}

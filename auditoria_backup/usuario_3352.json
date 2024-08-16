@@ -1,0 +1,37 @@
+{
+    "id": 3352,
+    "nome": "Rom\u00e3o Pereira de Sousa",
+    "email": "romao471tb@gmail.com",
+    "usuario": "romao42",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jo\u00e3o Batista Ferreira Alves",
+        "usuario": "JBatista"
+    },
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 0.0,
+        "saques_pix": 0.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 0.41,
+        "ganhos_residual": 0.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

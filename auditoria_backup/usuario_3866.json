@@ -1,0 +1,34 @@
+{
+    "id": 3866,
+    "nome": "Airton ferreira da silva",
+    "email": "airtonelisangela.z@gmail.com",
+    "usuario": "Fogonopavil",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 177.0,
+        "saques_pix": 177.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 160.23,
+        "ganhos_residual": 20.47
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 32,
+        "total_normal": 2,
+        "total_fake": 11,
+        "total_bonus": 0,
+        "total_lider": 19,
+        "total_investido": 7420.0,
+        "total_pix": 70.0,
+        "total_usdt": 0.0,
+        "total_fakes": 7350.0
+    }
+}

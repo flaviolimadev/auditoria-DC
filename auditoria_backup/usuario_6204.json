@@ -1,0 +1,34 @@
+{
+    "id": 6204,
+    "nome": "JOSE PEREIRA DE FREITAS",
+    "email": "megaluzalfa@gmail.com",
+    "usuario": "DRMEGAL",
+    "contato": "15624173211",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 450.0,
+        "entradas_fakes": 550.0,
+        "entradas_pix": 1000.0
+    },
+    "saidas": {
+        "saques_totais": 348.98,
+        "saques_pix": 0,
+        "saques_usdt": 348.98
+    },
+    "ganhos": {
+        "ganhos_rendimento": 350.34,
+        "ganhos_residual": 21.18
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 3,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 1505.0,
+        "total_pix": 35.0,
+        "total_usdt": 450.0,
+        "total_fakes": 1020.0
+    }
+}

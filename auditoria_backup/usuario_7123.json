@@ -1,0 +1,34 @@
+{
+    "id": 7123,
+    "nome": "DURAIRAJ",
+    "email": "durairaj.vjn@gmail.com",
+    "usuario": "DURAIRAJVJ",
+    "contato": "6381973797",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 30.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3.65,
+        "ganhos_residual": 4.59
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 100.0,
+        "total_pix": 0.0,
+        "total_usdt": 100.0,
+        "total_fakes": 0.0
+    }
+}

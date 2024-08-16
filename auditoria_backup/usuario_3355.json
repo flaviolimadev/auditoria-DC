@@ -1,0 +1,37 @@
+{
+    "id": 3355,
+    "nome": "Jorge Luiz Braga",
+    "email": "arquivosprime60@gmail.com",
+    "usuario": "fantoma",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 1150.0,
+        "entradas_usdt": 16.0,
+        "entradas_fakes": 210.0,
+        "entradas_pix": 924.0
+    },
+    "saidas": {
+        "saques_totais": 441.0,
+        "saques_pix": 434.0,
+        "saques_usdt": 7.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 450.15,
+        "ganhos_residual": 0.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

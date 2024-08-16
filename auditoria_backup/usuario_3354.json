@@ -1,0 +1,37 @@
+{
+    "id": 3354,
+    "nome": "Danilo Paranhos gomes",
+    "email": "daniloparanhos48@gmail.com",
+    "usuario": "Danilo",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 810.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 60.0,
+        "entradas_pix": 750.0
+    },
+    "saidas": {
+        "saques_totais": 700.0,
+        "saques_pix": 700.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 222.37,
+        "ganhos_residual": 546.17
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 27,
+        "total_normal": 25,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 5222.0,
+        "total_pix": 4712.0,
+        "total_usdt": 0.0,
+        "total_fakes": 510.0
+    }
+}

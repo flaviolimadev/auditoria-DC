@@ -1,0 +1,34 @@
+{
+    "id": 7418,
+    "nome": "Ulisses Alexandre De s\u00e1 Freire",
+    "email": "ulisses.alexandre2011@gmail.com",
+    "usuario": "Ulisses@",
+    "contato": "21983686052",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 500.0
+    },
+    "saidas": {
+        "saques_totais": 30.0,
+        "saques_pix": 30.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 48.53,
+        "ganhos_residual": 13.11
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 4,
+        "total_normal": 4,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 380.0,
+        "total_pix": 380.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

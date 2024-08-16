@@ -1,0 +1,34 @@
+{
+    "id": 7677,
+    "nome": "KEVIN DEREK CHIANTIAN LIU",
+    "email": "derekliubr@gmail.com",
+    "usuario": "derekliubr",
+    "contato": "11983412682",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1326.0,
+        "entradas_usdt": 884.0,
+        "entradas_fakes": 442.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 185.94,
+        "saques_pix": 0,
+        "saques_usdt": 185.94
+    },
+    "ganhos": {
+        "ganhos_rendimento": 169.37,
+        "ganhos_residual": 28.84
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 750.0,
+        "total_pix": 500.0,
+        "total_usdt": 0.0,
+        "total_fakes": 250.0
+    }
+}

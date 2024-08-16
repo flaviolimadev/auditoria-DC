@@ -1,0 +1,34 @@
+{
+    "id": 4093,
+    "nome": "Ivanildo Pedro salustiano",
+    "email": "telexrn@gmail.com",
+    "usuario": "Smartbr",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 335.1,
+        "ganhos_residual": 1.59
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 4,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 1125.0,
+        "total_pix": 25.0,
+        "total_usdt": 0.0,
+        "total_fakes": 1100.0
+    }
+}

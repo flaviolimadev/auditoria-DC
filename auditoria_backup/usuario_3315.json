@@ -1,0 +1,37 @@
+{
+    "id": 3315,
+    "nome": "Trindade",
+    "email": "empresaeuabr@gmail.com",
+    "usuario": "prosperidade",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Romero Ara\u00fajo",
+        "usuario": "kingromerito"
+    },
+    "entradas": {
+        "entradas_totais": 5010.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 5010.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 3678.0,
+        "saques_pix": 3678.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3008.9,
+        "ganhos_residual": 512.64
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 10,
+        "total_normal": 9,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 6700.0,
+        "total_pix": 1060.0,
+        "total_usdt": 0.0,
+        "total_fakes": 5640.0
+    }
+}

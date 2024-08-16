@@ -1,0 +1,34 @@
+{
+    "id": 4632,
+    "nome": "FABRICIO LAGARES BARBOSA",
+    "email": "tecnicoradiologiamedica596@gmail.com",
+    "usuario": "Fabricio123",
+    "contato": "69984043451",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 200.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 54.92,
+        "saques_pix": 54.92,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 55.72,
+        "ganhos_residual": 10.44
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 0,
+        "total_fake": 3,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 650.0,
+        "total_pix": 500.0,
+        "total_usdt": 0.0,
+        "total_fakes": 150.0
+    }
+}

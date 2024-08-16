@@ -1,0 +1,34 @@
+{
+    "id": 6171,
+    "nome": "MARCIO RODRIGUES",
+    "email": "marcinhorosa6@gmail.com",
+    "usuario": "marcinho",
+    "contato": "42991281702",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 30.0
+    },
+    "saidas": {
+        "saques_totais": 12.45,
+        "saques_pix": 12.45,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3.57,
+        "ganhos_residual": 20.42
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 60,
+        "total_normal": 60,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 410.0,
+        "total_pix": 410.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

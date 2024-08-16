@@ -1,0 +1,37 @@
+{
+    "id": 3391,
+    "nome": "Kelly Nascimento dos Santos",
+    "email": "kellysanttos918@gmail.com",
+    "usuario": "Ksanttos918",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Giane Rufino Leandro",
+        "usuario": "Joabe77"
+    },
+    "entradas": {
+        "entradas_totais": 15.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 15.0
+    },
+    "saidas": {
+        "saques_totais": 5.0,
+        "saques_pix": 5.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 9.38,
+        "ganhos_residual": 0.5
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

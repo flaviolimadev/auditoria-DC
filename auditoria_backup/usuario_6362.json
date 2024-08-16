@@ -1,0 +1,34 @@
+{
+    "id": 6362,
+    "nome": "Keith Caroline",
+    "email": "apromar+keith@gmail.com",
+    "usuario": "apromar",
+    "contato": "15988228047",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 1.67,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 10,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 10,
+        "total_investido": 110.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 100.0
+    }
+}

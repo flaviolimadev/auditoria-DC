@@ -1,0 +1,34 @@
+{
+    "id": 4615,
+    "nome": "Leonardo Alves cordeiro",
+    "email": "La3729641@gmail.com",
+    "usuario": "Leonardo29",
+    "contato": "19993501459",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 14.05,
+        "ganhos_residual": 2.4
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 7,
+        "total_normal": 7,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 30.0,
+        "total_pix": 30.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

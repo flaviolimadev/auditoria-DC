@@ -1,0 +1,34 @@
+{
+    "id": 5836,
+    "nome": "Miqueias Castro de Sa Lima",
+    "email": "miqueias-castro@hotmail.com",
+    "usuario": "mcastro",
+    "contato": "61985234069",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 5.86,
+        "saques_pix": 5.86,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 10.59,
+        "ganhos_residual": 0.8
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

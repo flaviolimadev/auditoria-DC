@@ -1,0 +1,34 @@
+{
+    "id": 3943,
+    "nome": "Amahle Mazibuko",
+    "email": "4amahlemazibuko@gmail.com",
+    "usuario": "Mashmash",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 10.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 12.82,
+        "saques_pix": 0,
+        "saques_usdt": 12.82
+    },
+    "ganhos": {
+        "ganhos_rendimento": 4.24,
+        "ganhos_residual": 17.49
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 60.0,
+        "total_pix": 0.0,
+        "total_usdt": 50.0,
+        "total_fakes": 10.0
+    }
+}

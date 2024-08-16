@@ -1,0 +1,135 @@
+{
+    "nome": "Cristiano Cesar da Silva Barbosa",
+    "email": "cris197barbosa@gmail.com",
+    "usuario": "Filhodorei",
+    "contato": null,
+    "tipo_conta": "NORMAL",
+    "saldo_disponivel": 5.25,
+    "entradas": {
+        "entradas_totais": 73.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 63.0
+    },
+    "saidas": {
+        "saques_totais": 32.13,
+        "saques_pix": 32.13,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 28.56,
+        "ganhos_residual": 8.82
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 6,
+            "total_normal": 5,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 520.0,
+            "total_pix": 20.0,
+            "total_usdt": 0.0,
+            "total_fakes": 500.0
+        },
+        "nivel_2": {
+            "numero_indicados": 32,
+            "total_normal": 2,
+            "total_fake": 11,
+            "total_bonus": 0,
+            "total_lider": 19,
+            "total_investido": 7420.0,
+            "total_pix": 70.0,
+            "total_usdt": 0.0,
+            "total_fakes": 7350.0
+        },
+        "nivel_3": {
+            "numero_indicados": 64,
+            "total_normal": 37,
+            "total_fake": 14,
+            "total_bonus": 1,
+            "total_lider": 12,
+            "total_investido": 13385.0,
+            "total_pix": 1450.0,
+            "total_usdt": 50.0,
+            "total_fakes": 11885.0
+        },
+        "nivel_4": {
+            "numero_indicados": 49,
+            "total_normal": 23,
+            "total_fake": 9,
+            "total_bonus": 0,
+            "total_lider": 17,
+            "total_investido": 3268.0,
+            "total_pix": 798.0,
+            "total_usdt": 0.0,
+            "total_fakes": 2470.0
+        },
+        "nivel_5": {
+            "numero_indicados": 69,
+            "total_normal": 29,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 37,
+            "total_investido": 4518.0,
+            "total_pix": 2348.0,
+            "total_usdt": 0.0,
+            "total_fakes": 2170.0
+        },
+        "nivel_6": {
+            "numero_indicados": 154,
+            "total_normal": 116,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 36,
+            "total_investido": 2636.0,
+            "total_pix": 1466.0,
+            "total_usdt": 250.0,
+            "total_fakes": 920.0
+        },
+        "nivel_7": {
+            "numero_indicados": 73,
+            "total_normal": 62,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 10,
+            "total_investido": 1470.0,
+            "total_pix": 1060.0,
+            "total_usdt": 100.0,
+            "total_fakes": 310.0
+        },
+        "nivel_8": {
+            "numero_indicados": 32,
+            "total_normal": 29,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 2185.0,
+            "total_pix": 1055.0,
+            "total_usdt": 1000.0,
+            "total_fakes": 130.0
+        },
+        "nivel_9": {
+            "numero_indicados": 27,
+            "total_normal": 25,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 2,
+            "total_investido": 11685.5,
+            "total_pix": 1675.5,
+            "total_usdt": 0.0,
+            "total_fakes": 10010.0
+        },
+        "nivel_10": {
+            "numero_indicados": 37,
+            "total_normal": 30,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 7,
+            "total_investido": 1155.0,
+            "total_pix": 205.0,
+            "total_usdt": 200.0,
+            "total_fakes": 750.0
+        }
+    }
+}

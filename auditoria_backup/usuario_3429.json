@@ -1,0 +1,37 @@
+{
+    "id": 3429,
+    "nome": "Lenir Francisco Pires",
+    "email": "pireslenir52@gmail.com",
+    "usuario": "Lepires",
+    "contato": "54991487377",
+    "patrocinador": {
+        "nome": "Cristiano Jos\u00e9 Santiago da silva",
+        "usuario": "global team"
+    },
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 50.0
+    },
+    "saidas": {
+        "saques_totais": 32.0,
+        "saques_pix": 32.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 30.24,
+        "ganhos_residual": 4.42
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10.0,
+        "total_pix": 10.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

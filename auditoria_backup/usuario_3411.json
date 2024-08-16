@@ -1,0 +1,37 @@
+{
+    "id": 3411,
+    "nome": "Eli\u00e9zer de M.melo",
+    "email": "eliezermoraesmelo123@gmail.com",
+    "usuario": "Eliezer",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Giane Rufino Leandro",
+        "usuario": "Joabe77"
+    },
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 5.5,
+        "saques_pix": 5.5,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 6.26,
+        "ganhos_residual": 0.0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

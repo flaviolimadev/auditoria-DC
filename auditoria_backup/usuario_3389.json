@@ -1,0 +1,37 @@
+{
+    "id": 3389,
+    "nome": "Paulo Roberto linhares",
+    "email": "joailsondantas70@gmail.com",
+    "usuario": "pauloclub",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Eduardo da Silva",
+        "usuario": "Eduardoclub"
+    },
+    "entradas": {
+        "entradas_totais": 184.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 184.0
+    },
+    "saidas": {
+        "saques_totais": 156.94,
+        "saques_pix": 156.94,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 111.2,
+        "ganhos_residual": 50.05
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 184.0,
+        "total_pix": 184.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

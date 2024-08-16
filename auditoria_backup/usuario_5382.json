@@ -1,0 +1,34 @@
+{
+    "id": 5382,
+    "nome": "Jos\u00e9 Carlos Santos Gomes",
+    "email": "jcgomes58@hotmail.com",
+    "usuario": "carlossif",
+    "contato": "351915811111",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 80.0,
+        "saques_pix": 0,
+        "saques_usdt": 80.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 223.9,
+        "ganhos_residual": 86.95
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 13,
+        "total_normal": 13,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 1232.0,
+        "total_pix": 1082.0,
+        "total_usdt": 150.0,
+        "total_fakes": 0.0
+    }
+}

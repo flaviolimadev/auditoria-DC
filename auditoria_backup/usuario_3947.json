@@ -1,0 +1,34 @@
+{
+    "id": 3947,
+    "nome": "Busisiwe Tshabalala",
+    "email": "busisiwedm@gmail.com",
+    "usuario": "Milhub2006",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 510.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 510.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 209.12,
+        "ganhos_residual": 48.51
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 6,
+        "total_normal": 2,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 2820.0,
+        "total_pix": 0.0,
+        "total_usdt": 320.0,
+        "total_fakes": 2500.0
+    }
+}

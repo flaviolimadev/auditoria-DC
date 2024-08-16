@@ -1,0 +1,37 @@
+{
+    "id": 3324,
+    "nome": "Djamer Freitas Silva",
+    "email": "djamer_geisekelly@hotmail.com",
+    "usuario": "Djamer",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Bruno Angelo Ribeiro da silva",
+        "usuario": "Bruno2681"
+    },
+    "entradas": {
+        "entradas_totais": 575.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 475.0
+    },
+    "saidas": {
+        "saques_totais": 197.0,
+        "saques_pix": 197.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 214.03,
+        "ganhos_residual": 11.59
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 8,
+        "total_normal": 8,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 105.0,
+        "total_pix": 105.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

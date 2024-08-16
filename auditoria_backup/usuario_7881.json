@@ -1,0 +1,34 @@
+{
+    "id": 7881,
+    "nome": "Renato Proen\u00e7a",
+    "email": "ml2024loja01@gmail.com",
+    "usuario": "lucranet",
+    "contato": "11953581230",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 100.0
+    },
+    "saidas": {
+        "saques_totais": 5.5,
+        "saques_pix": 5.5,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 12.09,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

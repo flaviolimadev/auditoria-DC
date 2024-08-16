@@ -1,0 +1,34 @@
+{
+    "id": 3718,
+    "nome": "Natali Oliveira da Silva Belo",
+    "email": "milionaria.msa@gmail.com",
+    "usuario": "Orlandobello",
+    "contato": "81987340437",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 389.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 220.0,
+        "entradas_pix": 169.0
+    },
+    "saidas": {
+        "saques_totais": 752.71,
+        "saques_pix": 752.71,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 100.68,
+        "ganhos_residual": 656.74
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 65,
+        "total_normal": 11,
+        "total_fake": 14,
+        "total_bonus": 0,
+        "total_lider": 40,
+        "total_investido": 7993.55,
+        "total_pix": 5704.55,
+        "total_usdt": 24.0,
+        "total_fakes": 2265.0
+    }
+}

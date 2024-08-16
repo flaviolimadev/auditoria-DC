@@ -1,0 +1,34 @@
+{
+    "id": 4981,
+    "nome": "Eduardo dourado",
+    "email": "eduardodourado.vc@gmail.com",
+    "usuario": "dududf",
+    "contato": "61982712212",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 10.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 2.65,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 9,
+        "total_normal": 3,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 6,
+        "total_investido": 60.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 60.0
+    }
+}

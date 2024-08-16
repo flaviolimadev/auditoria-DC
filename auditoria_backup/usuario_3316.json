@@ -1,0 +1,37 @@
+{
+    "id": 3316,
+    "nome": "Cristiano Jos\u00e9 Santiago da silva",
+    "email": "cristiano.santiagogta@gmail.com",
+    "usuario": "global team",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Trindade",
+        "usuario": "prosperidade"
+    },
+    "entradas": {
+        "entradas_totais": 5060.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 5060.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 4512.66,
+        "saques_pix": 4512.66,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3014.4,
+        "ganhos_residual": 807.51
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 16,
+        "total_normal": 12,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 3935.02,
+        "total_pix": 644.1,
+        "total_usdt": 0.0,
+        "total_fakes": 3290.92
+    }
+}

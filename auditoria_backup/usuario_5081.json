@@ -1,0 +1,34 @@
+{
+    "id": 5081,
+    "nome": "Adair Luis Engel",
+    "email": "adairluisengel@gmail.com",
+    "usuario": "Engelluis",
+    "contato": "55984620637",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 12.85,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

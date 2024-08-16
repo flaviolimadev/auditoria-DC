@@ -1,0 +1,37 @@
+{
+    "id": 3338,
+    "nome": "Cristiano Cesar da Silva Barbosa",
+    "email": "cris197barbosa@gmail.com",
+    "usuario": "Filhodorei",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 73.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 63.0
+    },
+    "saidas": {
+        "saques_totais": 32.13,
+        "saques_pix": 32.13,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 28.48,
+        "ganhos_residual": 8.68
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 6,
+        "total_normal": 5,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 520.0,
+        "total_pix": 20.0,
+        "total_usdt": 0.0,
+        "total_fakes": 500.0
+    }
+}

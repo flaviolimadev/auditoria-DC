@@ -1,0 +1,135 @@
+{
+    "nome": "Edivan dos santos costa",
+    "email": "edivansantos941@gmail.com",
+    "usuario": "Edivan941",
+    "contato": "96991403632",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 22.52,
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 300.0
+    },
+    "saidas": {
+        "saques_totais": 247.0,
+        "saques_pix": 247.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 55.6,
+        "ganhos_residual": 63.96
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 38,
+            "total_normal": 22,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 16,
+            "total_investido": 3673.0,
+            "total_pix": 2073.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1600.0
+        },
+        "nivel_2": {
+            "numero_indicados": 81,
+            "total_normal": 80,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 1436.0,
+            "total_pix": 1336.0,
+            "total_usdt": 0.0,
+            "total_fakes": 100.0
+        },
+        "nivel_3": {
+            "numero_indicados": 39,
+            "total_normal": 38,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 910.0,
+            "total_pix": 810.0,
+            "total_usdt": 0.0,
+            "total_fakes": 100.0
+        },
+        "nivel_4": {
+            "numero_indicados": 18,
+            "total_normal": 18,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 670.0,
+            "total_pix": 570.0,
+            "total_usdt": 0.0,
+            "total_fakes": 100.0
+        },
+        "nivel_5": {
+            "numero_indicados": 20,
+            "total_normal": 20,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 1395.5,
+            "total_pix": 1395.5,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 3,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

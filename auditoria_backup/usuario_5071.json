@@ -1,0 +1,34 @@
+{
+    "id": 5071,
+    "nome": "Felipe Gon\u00e7alves leite",
+    "email": "chefcozinha2015@gmail.com",
+    "usuario": "FelipeLeite",
+    "contato": "84999352657",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 250.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 200.0
+    },
+    "saidas": {
+        "saques_totais": 58.77,
+        "saques_pix": 58.77,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 63.71,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

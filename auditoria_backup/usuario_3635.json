@@ -1,0 +1,34 @@
+{
+    "id": 3635,
+    "nome": "Carlos Henrique Sypnievski",
+    "email": "visaoreta1@gmail.com",
+    "usuario": "carlinhos",
+    "contato": "42999801445",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 40.0,
+        "entradas_pix": 60.0
+    },
+    "saidas": {
+        "saques_totais": 50.0,
+        "saques_pix": 50.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 50.23,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

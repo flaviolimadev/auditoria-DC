@@ -1,0 +1,34 @@
+{
+    "id": 5636,
+    "nome": "ANDRE NASCIMENTO DOS SANTOS",
+    "email": "plinsk12@hotmail.com",
+    "usuario": "Plinsk12",
+    "contato": "91982593199",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1369.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 869.0
+    },
+    "saidas": {
+        "saques_totais": 50.0,
+        "saques_pix": 50.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 123.63,
+        "ganhos_residual": 0.47
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 15,
+        "total_normal": 11,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 4,
+        "total_investido": 60.0,
+        "total_pix": 20.0,
+        "total_usdt": 0.0,
+        "total_fakes": 40.0
+    }
+}

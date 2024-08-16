@@ -1,0 +1,34 @@
+{
+    "id": 5609,
+    "nome": "Evandro Antonio de Almeida",
+    "email": "evandroalmeidafx11@outlook.com",
+    "usuario": "Digitalclub1",
+    "contato": "43988229032",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 122.44,
+        "saques_pix": 122.44,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 106.45,
+        "ganhos_residual": 21.11
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 40,
+        "total_normal": 17,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 22,
+        "total_investido": 1380.0,
+        "total_pix": 430.0,
+        "total_usdt": 0.0,
+        "total_fakes": 950.0
+    }
+}

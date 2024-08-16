@@ -1,0 +1,34 @@
+{
+    "id": 3774,
+    "nome": "Ju\u00e7ara Marques da Silva Gouveia",
+    "email": "juvitorgouveia@gmail.com",
+    "usuario": "Juvitor",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 330.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 243.0,
+        "entradas_pix": 87.0
+    },
+    "saidas": {
+        "saques_totais": 133.0,
+        "saques_pix": 133.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 114.65,
+        "ganhos_residual": 37.31
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 22,
+        "total_normal": 4,
+        "total_fake": 13,
+        "total_bonus": 0,
+        "total_lider": 5,
+        "total_investido": 1925.0,
+        "total_pix": 635.0,
+        "total_usdt": 0.0,
+        "total_fakes": 1290.0
+    }
+}

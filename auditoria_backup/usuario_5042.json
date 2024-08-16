@@ -1,0 +1,34 @@
+{
+    "id": 5042,
+    "nome": "Michael Santos de brito",
+    "email": "celiadiasvieirabrito@gmail.com",
+    "usuario": "Mkbrito",
+    "contato": "16991003969",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 50.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 9.3,
+        "saques_pix": 9.3,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 12.85,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 15,
+        "total_normal": 4,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 10,
+        "total_investido": 650.0,
+        "total_pix": 0.0,
+        "total_usdt": 200.0,
+        "total_fakes": 450.0
+    }
+}

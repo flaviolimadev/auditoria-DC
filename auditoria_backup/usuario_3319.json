@@ -1,0 +1,37 @@
+{
+    "id": 3319,
+    "nome": "Ronaldo Batista da Costa",
+    "email": "ronaldobatistarbc34@gmail.com",
+    "usuario": "Ronaldocosta",
+    "contato": null,
+    "patrocinador": {
+        "nome": "KARINA ROSSI",
+        "usuario": "karinarossi"
+    },
+    "entradas": {
+        "entradas_totais": 46.76,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 36.76,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 0.0,
+        "saques_pix": 0.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 23.72,
+        "ganhos_residual": 5.18
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 200.0,
+        "total_pix": 100.0,
+        "total_usdt": 0.0,
+        "total_fakes": 100.0
+    }
+}

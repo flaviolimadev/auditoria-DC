@@ -1,0 +1,37 @@
+{
+    "id": 3335,
+    "nome": "Marcos Fl\u00e1vio  dos  Santos",
+    "email": "marcosflaviopkd@gmail.com",
+    "usuario": "Marcospqd",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 220.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 220.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 226.0,
+        "saques_pix": 226.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 130.13,
+        "ganhos_residual": 103.78
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 525.0,
+        "total_pix": 525.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

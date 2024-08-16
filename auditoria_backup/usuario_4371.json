@@ -1,0 +1,34 @@
+{
+    "id": 4371,
+    "nome": "PERUMAL",
+    "email": "perumaln1571@gmail.com",
+    "usuario": "PERUMAL1",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2050.0,
+        "entradas_usdt": 50.0,
+        "entradas_fakes": 2000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 598.03,
+        "ganhos_residual": 0.81
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 11,
+        "total_normal": 5,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 6,
+        "total_investido": 4800.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 4800.0
+    }
+}

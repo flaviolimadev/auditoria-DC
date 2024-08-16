@@ -1,0 +1,37 @@
+{
+    "id": 3330,
+    "nome": "duarte vieira",
+    "email": "duvi31@gmail.com",
+    "usuario": "cryptotuga",
+    "contato": "964593362",
+    "patrocinador": {
+        "nome": "Cristiano Jos\u00e9 Santiago da silva",
+        "usuario": "global team"
+    },
+    "entradas": {
+        "entradas_totais": 1120.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 1120.0,
+        "entradas_pix": 0.0
+    },
+    "saidas": {
+        "saques_totais": 936.99,
+        "saques_pix": 0.0,
+        "saques_usdt": 936.99
+    },
+    "ganhos": {
+        "ganhos_rendimento": 444.63,
+        "ganhos_residual": 536.62
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 76,
+        "total_normal": 70,
+        "total_fake": 3,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 6908.0,
+        "total_pix": 1091.0,
+        "total_usdt": 3012.0,
+        "total_fakes": 2805.0
+    }
+}

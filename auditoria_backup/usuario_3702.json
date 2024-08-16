@@ -1,0 +1,34 @@
+{
+    "id": 3702,
+    "nome": "Santo Oscar Rossi",
+    "email": "karinasantorossi2023@gmail.com",
+    "usuario": "Santorossi",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 150.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 58.0,
+        "entradas_pix": 92.0
+    },
+    "saidas": {
+        "saques_totais": 67.0,
+        "saques_pix": 67.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 77.74,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

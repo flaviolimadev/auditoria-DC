@@ -1,0 +1,34 @@
+{
+    "id": 3469,
+    "nome": "Matheus Mota",
+    "email": "lidertocant98@gmail.com",
+    "usuario": "Motamota",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1211.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 1211.0
+    },
+    "saidas": {
+        "saques_totais": 330.23,
+        "saques_pix": 330.23,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 333.76,
+        "ganhos_residual": 1.84
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 4,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 200.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 200.0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 4584,
+    "nome": "Queila Estevam Miranda",
+    "email": "contatokeilamiranda@hotmail.com",
+    "usuario": "Km2024",
+    "contato": "34996913464",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 240.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 40.0
+    },
+    "saidas": {
+        "saques_totais": 89.0,
+        "saques_pix": 89.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 63.58,
+        "ganhos_residual": 31.46
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 28,
+        "total_normal": 12,
+        "total_fake": 14,
+        "total_bonus": 0,
+        "total_lider": 2,
+        "total_investido": 1055.0,
+        "total_pix": 355.0,
+        "total_usdt": 0.0,
+        "total_fakes": 700.0
+    }
+}

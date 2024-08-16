@@ -1,0 +1,34 @@
+{
+    "id": 7420,
+    "nome": "JORGE FREITAS",
+    "email": "JORGEFREITAS.INTERLAGOS@OUTLOOK.PT",
+    "usuario": "JOMI71",
+    "contato": "933298368",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 465.0,
+        "entradas_usdt": 310.0,
+        "entradas_fakes": 155.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 70.5,
+        "saques_pix": 0,
+        "saques_usdt": 70.5
+    },
+    "ganhos": {
+        "ganhos_rendimento": 66.95,
+        "ganhos_residual": 8.44
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 300.0,
+        "total_pix": 0.0,
+        "total_usdt": 300.0,
+        "total_fakes": 0.0
+    }
+}

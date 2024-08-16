@@ -1,0 +1,135 @@
+{
+    "nome": "Kelle Cristina Moreira de Jesus",
+    "email": "eltonmgm01@gmail.com",
+    "usuario": "Kellex",
+    "contato": null,
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 3.12,
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 462.0,
+        "saques_pix": 462.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 380.8,
+        "ganhos_residual": 84.32
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 3,
+            "total_normal": 2,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 1060.0,
+            "total_pix": 60.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1000.0
+        },
+        "nivel_2": {
+            "numero_indicados": 5,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 4,
+            "total_investido": 960.0,
+            "total_pix": 0.0,
+            "total_usdt": 200.0,
+            "total_fakes": 760.0
+        },
+        "nivel_3": {
+            "numero_indicados": 30,
+            "total_normal": 25,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 4,
+            "total_investido": 2450.8,
+            "total_pix": 1070.8,
+            "total_usdt": 10.0,
+            "total_fakes": 1370.0
+        },
+        "nivel_4": {
+            "numero_indicados": 11,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 5,
+            "total_investido": 4280.0,
+            "total_pix": 170.0,
+            "total_usdt": 0.0,
+            "total_fakes": 4110.0
+        },
+        "nivel_5": {
+            "numero_indicados": 41,
+            "total_normal": 13,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 28,
+            "total_investido": 11295.0,
+            "total_pix": 1275.0,
+            "total_usdt": 0.0,
+            "total_fakes": 10020.0
+        },
+        "nivel_6": {
+            "numero_indicados": 97,
+            "total_normal": 46,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 51,
+            "total_investido": 7351.76,
+            "total_pix": 797.0,
+            "total_usdt": 20.0,
+            "total_fakes": 6534.76
+        },
+        "nivel_7": {
+            "numero_indicados": 67,
+            "total_normal": 39,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 28,
+            "total_investido": 5074.0,
+            "total_pix": 2464.0,
+            "total_usdt": 200.0,
+            "total_fakes": 2410.0
+        },
+        "nivel_8": {
+            "numero_indicados": 29,
+            "total_normal": 22,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 4,
+            "total_investido": 5943.0,
+            "total_pix": 3803.0,
+            "total_usdt": 560.0,
+            "total_fakes": 1580.0
+        },
+        "nivel_9": {
+            "numero_indicados": 33,
+            "total_normal": 30,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 2,
+            "total_investido": 2619.0,
+            "total_pix": 794.0,
+            "total_usdt": 450.0,
+            "total_fakes": 1375.0
+        },
+        "nivel_10": {
+            "numero_indicados": 7,
+            "total_normal": 7,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 150.0,
+            "total_pix": 100.0,
+            "total_usdt": 0.0,
+            "total_fakes": 50.0
+        }
+    }
+}

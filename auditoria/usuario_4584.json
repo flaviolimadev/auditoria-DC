@@ -1,0 +1,135 @@
+{
+    "nome": "Queila Estevam Miranda",
+    "email": "contatokeilamiranda@hotmail.com",
+    "usuario": "Km2024",
+    "contato": "34996913464",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 6.57,
+    "entradas": {
+        "entradas_totais": 240.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 200.0,
+        "entradas_pix": 40.0
+    },
+    "saidas": {
+        "saques_totais": 89.0,
+        "saques_pix": 89.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 63.87,
+        "ganhos_residual": 31.7
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 28,
+            "total_normal": 12,
+            "total_fake": 14,
+            "total_bonus": 0,
+            "total_lider": 2,
+            "total_investido": 1055.0,
+            "total_pix": 355.0,
+            "total_usdt": 0.0,
+            "total_fakes": 700.0
+        },
+        "nivel_2": {
+            "numero_indicados": 9,
+            "total_normal": 5,
+            "total_fake": 4,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 680.0,
+            "total_pix": 520.0,
+            "total_usdt": 0.0,
+            "total_fakes": 160.0
+        },
+        "nivel_3": {
+            "numero_indicados": 6,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_4": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

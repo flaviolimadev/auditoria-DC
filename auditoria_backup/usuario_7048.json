@@ -1,0 +1,34 @@
+{
+    "id": 7048,
+    "nome": "MARIA EMILIA PEREIRA",
+    "email": "chinicato.44@outlook.pt",
+    "usuario": "MILAJE",
+    "contato": "938250546",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 750.0,
+        "entradas_usdt": 500.0,
+        "entradas_fakes": 250.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 123.58,
+        "saques_pix": 0,
+        "saques_usdt": 123.58
+    },
+    "ganhos": {
+        "ganhos_rendimento": 127.59,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 4070,
+    "nome": "Maria Clara Ferreira de jesus",
+    "email": "cmcmultinivel+2@gmail.com",
+    "usuario": "Topbrasil20",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 100.0
+    },
+    "saidas": {
+        "saques_totais": 146.4,
+        "saques_pix": 146.4,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 35.09,
+        "ganhos_residual": 116.17
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 210.0,
+        "total_pix": 210.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

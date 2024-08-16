@@ -1,0 +1,34 @@
+{
+    "id": 5314,
+    "nome": "Wagner Sena",
+    "email": "wagnersena1978@gmail.com",
+    "usuario": "sena01",
+    "contato": "21994639157",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 233.1,
+        "ganhos_residual": 0.98
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 12,
+        "total_normal": 9,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 1920.0,
+        "total_pix": 20.0,
+        "total_usdt": 0.0,
+        "total_fakes": 1900.0
+    }
+}

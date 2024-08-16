@@ -1,0 +1,34 @@
+{
+    "id": 4927,
+    "nome": "Fabio Ramos Da Mota",
+    "email": "fabioramos2610@gmail.com",
+    "usuario": "Fabiobitcoin",
+    "contato": "61993708874",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 17.62,
+        "saques_pix": 17.62,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 3.8,
+        "ganhos_residual": 17.01
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 11,
+        "total_normal": 2,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 8,
+        "total_investido": 280.0,
+        "total_pix": 170.0,
+        "total_usdt": 0.0,
+        "total_fakes": 110.0
+    }
+}

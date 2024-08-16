@@ -1,0 +1,34 @@
+{
+    "id": 4126,
+    "nome": "carlos andre do monte",
+    "email": "sucessosfatal77@gmail.com",
+    "usuario": "Cadastro77",
+    "contato": "81983733468",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 40.45,
+        "saques_pix": 40.45,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 34.48,
+        "ganhos_residual": 8.63
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 29,
+        "total_normal": 28,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 698.0,
+        "total_pix": 198.0,
+        "total_usdt": 0.0,
+        "total_fakes": 500.0
+    }
+}

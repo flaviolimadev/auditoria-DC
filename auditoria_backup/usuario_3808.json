@@ -1,0 +1,34 @@
+{
+    "id": 3808,
+    "nome": "Guido Gonzaga Leonis",
+    "email": "guidoleonis10@gmail.com",
+    "usuario": "Gleonis",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 13.0,
+        "saques_pix": 13.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 9.67,
+        "ganhos_residual": 4.68
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 225.0,
+        "total_pix": 225.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

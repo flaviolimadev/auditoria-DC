@@ -1,0 +1,34 @@
+{
+    "id": 8172,
+    "nome": "RAIMUNDA DO SOCORRO SOUSA DOS SANTOS MONTEIRO",
+    "email": "raimundasousaqw@hotmail.com",
+    "usuario": "QWRSOUSA",
+    "contato": "96984323836",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 300.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 0,
+        "entradas_pix": 300.0
+    },
+    "saidas": {
+        "saques_totais": 12.0,
+        "saques_pix": 12.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 29.04,
+        "ganhos_residual": 0.65
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 3,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 30.0,
+        "total_pix": 30.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

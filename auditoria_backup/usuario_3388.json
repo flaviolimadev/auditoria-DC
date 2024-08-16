@@ -1,0 +1,37 @@
+{
+    "id": 3388,
+    "nome": "Eduardo da Silva",
+    "email": "joao.j10092@gmail.com",
+    "usuario": "Eduardoclub",
+    "contato": null,
+    "patrocinador": {
+        "nome": "joailson dantas dos santos",
+        "usuario": "dantas70"
+    },
+    "entradas": {
+        "entradas_totais": 184.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 184.0
+    },
+    "saidas": {
+        "saques_totais": 166.01,
+        "saques_pix": 166.01,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 111.2,
+        "ganhos_residual": 56.01
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 1,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 694.0,
+        "total_pix": 184.0,
+        "total_usdt": 0.0,
+        "total_fakes": 510.0
+    }
+}

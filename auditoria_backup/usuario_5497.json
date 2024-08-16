@@ -1,0 +1,34 @@
+{
+    "id": 5497,
+    "nome": "Renan Morais da silva",
+    "email": "Renanmorais22@gmail.com",
+    "usuario": "Register",
+    "contato": "28999942515",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 226.9,
+        "ganhos_residual": 0.62
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 5,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 12.0,
+        "total_pix": 12.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

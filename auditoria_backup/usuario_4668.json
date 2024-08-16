@@ -1,0 +1,34 @@
+{
+    "id": 4668,
+    "nome": "Aut\u00f4nomo Enterpraise",
+    "email": "autonomoenterprise.info@gmail.com",
+    "usuario": "autonomo",
+    "contato": "11953255765",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1500.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1500.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 484.0,
+        "saques_pix": 0,
+        "saques_usdt": 484.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 400.8,
+        "ganhos_residual": 28.43
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 22,
+        "total_normal": 18,
+        "total_fake": 4,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 10928.0,
+        "total_pix": 28.0,
+        "total_usdt": 0.0,
+        "total_fakes": 10900.0
+    }
+}

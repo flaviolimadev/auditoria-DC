@@ -1,0 +1,34 @@
+{
+    "id": 4275,
+    "nome": "SUNIL T J",
+    "email": "bittrendz@gmail.com",
+    "usuario": "TRENDZ",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 2000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 60.0,
+        "saques_pix": 0,
+        "saques_usdt": 60.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 632.4,
+        "ganhos_residual": 28.66
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 35,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 34,
+        "total_investido": 66010.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 66010.0
+    }
+}

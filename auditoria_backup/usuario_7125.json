@@ -1,0 +1,34 @@
+{
+    "id": 7125,
+    "nome": "D SIRANJEEVI",
+    "email": "siranjeevi1958@gmail.com",
+    "usuario": "SIVABABA1",
+    "contato": "07305042334",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 2000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 241.8,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 2000.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 2000.0
+    }
+}

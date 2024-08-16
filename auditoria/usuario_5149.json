@@ -1,0 +1,135 @@
+{
+    "nome": "Luziano Intermedia\u00e7\u00e3o de Negocios",
+    "email": "realizeronline@gmail.com",
+    "usuario": "bediamond",
+    "contato": "64992377060",
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 18.7,
+    "entradas": {
+        "entradas_totais": 20100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 20100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 1555.99,
+        "saques_pix": 1555.99,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 79.51,
+        "ganhos_residual": 885.18
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 92,
+            "total_normal": 65,
+            "total_fake": 7,
+            "total_bonus": 0,
+            "total_lider": 20,
+            "total_investido": 30694.0,
+            "total_pix": 15733.0,
+            "total_usdt": 1300.0,
+            "total_fakes": 13661.0
+        },
+        "nivel_2": {
+            "numero_indicados": 149,
+            "total_normal": 75,
+            "total_fake": 7,
+            "total_bonus": 0,
+            "total_lider": 67,
+            "total_investido": 12850.0,
+            "total_pix": 2450.0,
+            "total_usdt": 50.0,
+            "total_fakes": 10350.0
+        },
+        "nivel_3": {
+            "numero_indicados": 86,
+            "total_normal": 61,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 25,
+            "total_investido": 5747.0,
+            "total_pix": 777.0,
+            "total_usdt": 0.0,
+            "total_fakes": 4970.0
+        },
+        "nivel_4": {
+            "numero_indicados": 91,
+            "total_normal": 57,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 34,
+            "total_investido": 5864.0,
+            "total_pix": 484.0,
+            "total_usdt": 0.0,
+            "total_fakes": 5380.0
+        },
+        "nivel_5": {
+            "numero_indicados": 23,
+            "total_normal": 15,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 7,
+            "total_investido": 2250.0,
+            "total_pix": 500.0,
+            "total_usdt": 0.0,
+            "total_fakes": 1750.0
+        },
+        "nivel_6": {
+            "numero_indicados": 5,
+            "total_normal": 4,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 10.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 10.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 3,
+            "total_normal": 3,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 50.0,
+            "total_pix": 50.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

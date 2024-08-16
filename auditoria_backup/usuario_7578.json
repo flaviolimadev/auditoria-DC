@@ -1,0 +1,34 @@
+{
+    "id": 7578,
+    "nome": "Monique Lara",
+    "email": "acdsdlj@gmail.com",
+    "usuario": "molara",
+    "contato": "41997359202",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 30.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 1.55,
+        "ganhos_residual": 6.02
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 390.0,
+        "total_pix": 0.0,
+        "total_usdt": 390.0,
+        "total_fakes": 0.0
+    }
+}

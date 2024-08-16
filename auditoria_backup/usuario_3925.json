@@ -1,0 +1,34 @@
+{
+    "id": 3925,
+    "nome": "Henrique Alexandre",
+    "email": "mrbsstos.pro@gmail.com",
+    "usuario": "Mrbastos",
+    "contato": "75981670480",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 2000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 826.2,
+        "ganhos_residual": 5.63
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 3,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 2,
+        "total_investido": 2100.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 2100.0
+    }
+}

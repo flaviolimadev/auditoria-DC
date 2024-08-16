@@ -1,0 +1,34 @@
+{
+    "id": 6647,
+    "nome": "Raimundo nogueira de oliveira",
+    "email": "raimundonogueira1230709@gmail.com",
+    "usuario": "Oliveiramkt",
+    "contato": "96991173917",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 110.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 19.57,
+        "saques_pix": 19.57,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 19.2,
+        "ganhos_residual": 2.19
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 5,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 60.0,
+        "total_pix": 60.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

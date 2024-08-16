@@ -1,0 +1,34 @@
+{
+    "id": 3603,
+    "nome": "Elton Pereira de Jesus",
+    "email": "comercial.elton@gmail.com",
+    "usuario": "Eltonx",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 110.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 110.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 68.0,
+        "saques_pix": 68.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 27.32,
+        "ganhos_residual": 63.54
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 6,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 5,
+        "total_investido": 4270.0,
+        "total_pix": 160.0,
+        "total_usdt": 0.0,
+        "total_fakes": 4110.0
+    }
+}

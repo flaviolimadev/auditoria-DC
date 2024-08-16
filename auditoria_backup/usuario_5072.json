@@ -1,0 +1,34 @@
+{
+    "id": 5072,
+    "nome": "Janaki Ramaiah A",
+    "email": "annaramanna1974@gmail.com",
+    "usuario": "Teemlifi",
+    "contato": "9611245879",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 400.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 400.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 124.0,
+        "saques_pix": 0,
+        "saques_usdt": 124.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 86.82,
+        "ganhos_residual": 61.95
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 17,
+        "total_normal": 9,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 8,
+        "total_investido": 1800.0,
+        "total_pix": 0.0,
+        "total_usdt": 1000.0,
+        "total_fakes": 800.0
+    }
+}

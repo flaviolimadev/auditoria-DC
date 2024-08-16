@@ -1,0 +1,37 @@
+{
+    "id": 3379,
+    "nome": "Maria de Lourdes Rodrigues Chaves",
+    "email": "marilu.rch2015@gmail.com",
+    "usuario": "mary89",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Samuel Francisco Pedroso",
+        "usuario": "sennapedroso"
+    },
+    "entradas": {
+        "entradas_totais": 440.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 250.0,
+        "entradas_pix": 190.0
+    },
+    "saidas": {
+        "saques_totais": 106.0,
+        "saques_pix": 106.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 225.49,
+        "ganhos_residual": 63.01
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 32,
+        "total_normal": 28,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 3,
+        "total_investido": 939.3,
+        "total_pix": 300.3,
+        "total_usdt": 0.0,
+        "total_fakes": 639.0
+    }
+}

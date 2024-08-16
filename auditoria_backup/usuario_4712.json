@@ -1,0 +1,34 @@
+{
+    "id": 4712,
+    "nome": "Karla Simone Freitas melo",
+    "email": "ssantorinu86@gmail.com",
+    "usuario": "Karlawife",
+    "contato": "61984550491",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 660.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 180.0,
+        "entradas_pix": 480.0
+    },
+    "saidas": {
+        "saques_totais": 83.47,
+        "saques_pix": 83.47,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 110.92,
+        "ganhos_residual": 7.32
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 115.0,
+        "total_pix": 100.0,
+        "total_usdt": 0.0,
+        "total_fakes": 15.0
+    }
+}

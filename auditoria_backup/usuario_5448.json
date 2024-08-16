@@ -1,0 +1,34 @@
+{
+    "id": 5448,
+    "nome": "Gangadharan  Nair P",
+    "email": "gangadharann43@gmail.com",
+    "usuario": "Jishagnair",
+    "contato": "9562122049",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1000.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 218.5,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 7,
+        "total_normal": 5,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 2,
+        "total_investido": 1000.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 1000.0
+    }
+}

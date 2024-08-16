@@ -1,0 +1,34 @@
+{
+    "id": 5281,
+    "nome": "F\u00e1tima Cristina Teixeira Correia",
+    "email": "miquices@gmail.com",
+    "usuario": "Crisfatima",
+    "contato": "351965867132",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 150.0,
+        "entradas_usdt": 100.0,
+        "entradas_fakes": 50.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 22.79,
+        "saques_pix": 0,
+        "saques_usdt": 22.79
+    },
+    "ganhos": {
+        "ganhos_rendimento": 30.56,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

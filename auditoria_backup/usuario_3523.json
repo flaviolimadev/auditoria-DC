@@ -1,0 +1,34 @@
+{
+    "id": 3523,
+    "nome": "Diogo Ribeiro Gon\u00e7alves",
+    "email": "diogorg492@gmail.com",
+    "usuario": "Dio5467",
+    "contato": "16992414351",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 10.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 8.83,
+        "ganhos_residual": 41.59
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 6,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 5,
+        "total_investido": 50.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 50.0
+    }
+}

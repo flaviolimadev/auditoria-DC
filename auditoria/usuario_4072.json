@@ -1,0 +1,135 @@
+{
+    "nome": "Camila Pereira de jesus",
+    "email": "cmcmultinivel+22@gmail.com",
+    "usuario": "Topbrasil22",
+    "contato": null,
+    "tipo_conta": "NORMAL",
+    "saldo_disponivel": 58.15,
+    "entradas": {
+        "entradas_totais": 2809.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1010.0,
+        "entradas_pix": 1799.0
+    },
+    "saidas": {
+        "saques_totais": 960.93,
+        "saques_pix": 960.93,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 979.17,
+        "ganhos_residual": 39.91
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 21,
+            "total_normal": 11,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 8,
+            "total_investido": 920.0,
+            "total_pix": 260.0,
+            "total_usdt": 0.0,
+            "total_fakes": 660.0
+        },
+        "nivel_2": {
+            "numero_indicados": 50,
+            "total_normal": 48,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 510.0,
+            "total_pix": 310.0,
+            "total_usdt": 0.0,
+            "total_fakes": 200.0
+        },
+        "nivel_3": {
+            "numero_indicados": 6,
+            "total_normal": 6,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_4": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 870.0,
+            "total_pix": 870.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 10.0,
+            "total_pix": 10.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 4967,
+    "nome": "William ceresuel Magusteiro",
+    "email": "williamceresuelmagusteiro@gmail.com",
+    "usuario": "William00",
+    "contato": "14997819676",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 100.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 100.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 25.46,
+        "saques_pix": 25.46,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 25.87,
+        "ganhos_residual": 1.85
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 25,
+        "total_normal": 25,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 30.0,
+        "total_pix": 30.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

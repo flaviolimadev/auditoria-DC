@@ -1,0 +1,34 @@
+{
+    "id": 4672,
+    "nome": "Rafael mestre",
+    "email": "bennetmuniz@gmail.com",
+    "usuario": "EAGLETOP1",
+    "contato": "21989920581",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 300.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 300.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 150.0,
+        "saques_pix": 150.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 81.03,
+        "ganhos_residual": 13.47
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 76,
+        "total_normal": 66,
+        "total_fake": 10,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 1392.0,
+        "total_pix": 197.0,
+        "total_usdt": 10.0,
+        "total_fakes": 1185.0
+    }
+}

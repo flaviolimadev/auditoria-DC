@@ -1,0 +1,37 @@
+{
+    "id": 3363,
+    "nome": "Marcos",
+    "email": "Marcospqd1996@gmail.com",
+    "usuario": "marcosflavio",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Marcos Fl\u00e1vio  dos  Santos",
+        "usuario": "Marcospqd"
+    },
+    "entradas": {
+        "entradas_totais": 525.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 525.0
+    },
+    "saidas": {
+        "saques_totais": 333.0,
+        "saques_pix": 333.0,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 324.84,
+        "ganhos_residual": 19.42
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 170.0,
+        "total_pix": 170.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

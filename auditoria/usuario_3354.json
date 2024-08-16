@@ -1,0 +1,135 @@
+{
+    "nome": "Danilo Paranhos gomes",
+    "email": "daniloparanhos48@gmail.com",
+    "usuario": "Danilo",
+    "contato": null,
+    "tipo_conta": "FAKE",
+    "saldo_disponivel": 72.03,
+    "entradas": {
+        "entradas_totais": 810.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 60.0,
+        "entradas_pix": 750.0
+    },
+    "saidas": {
+        "saques_totais": 700.0,
+        "saques_pix": 700.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 223.34,
+        "ganhos_residual": 548.7
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 27,
+            "total_normal": 25,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 5222.0,
+            "total_pix": 4712.0,
+            "total_usdt": 0.0,
+            "total_fakes": 510.0
+        },
+        "nivel_2": {
+            "numero_indicados": 56,
+            "total_normal": 55,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 1,
+            "total_investido": 3930.0,
+            "total_pix": 3552.0,
+            "total_usdt": 10.0,
+            "total_fakes": 368.0
+        },
+        "nivel_3": {
+            "numero_indicados": 40,
+            "total_normal": 40,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 6427.0,
+            "total_pix": 5957.0,
+            "total_usdt": 0.0,
+            "total_fakes": 470.0
+        },
+        "nivel_4": {
+            "numero_indicados": 27,
+            "total_normal": 27,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 570.0,
+            "total_pix": 370.0,
+            "total_usdt": 200.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 7,
+            "total_normal": 7,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 32.0,
+            "total_pix": 32.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 4,
+            "total_normal": 4,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 329.55,
+            "total_pix": 39.55,
+            "total_usdt": 290.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 297.0,
+            "total_pix": 0.0,
+            "total_usdt": 297.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

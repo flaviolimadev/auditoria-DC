@@ -1,0 +1,34 @@
+{
+    "id": 3998,
+    "nome": "Marciano Idilio Dur\u00e9 Martinez",
+    "email": "eljefe20111992+01@gmail.com",
+    "usuario": "idiliodure01",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 1000.0,
+        "entradas_usdt": 1000.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 387.33,
+        "saques_pix": 0,
+        "saques_usdt": 387.33
+    },
+    "ganhos": {
+        "ganhos_rendimento": 384.63,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 7,
+        "total_normal": 7,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

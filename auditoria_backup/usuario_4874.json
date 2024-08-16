@@ -1,0 +1,34 @@
+{
+    "id": 4874,
+    "nome": "pradeepr",
+    "email": "pradeeprk2012@gmail.com",
+    "usuario": "pradeepra",
+    "contato": "9995383779",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 520.0,
+        "entradas_usdt": 520.0,
+        "entradas_fakes": 0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 117.0,
+        "saques_pix": 0,
+        "saques_usdt": 117.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 137.82,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

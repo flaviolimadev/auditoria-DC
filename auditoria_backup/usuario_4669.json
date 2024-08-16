@@ -1,0 +1,34 @@
+{
+    "id": 4669,
+    "nome": "Fabrica de Cripto",
+    "email": "fabricadecripto@gmail.com",
+    "usuario": "fabcripto",
+    "contato": "11975142434",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 300.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 300.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 142.0,
+        "saques_pix": 34.0,
+        "saques_usdt": 108.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 81.03,
+        "ganhos_residual": 3.34
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 9,
+        "total_normal": 7,
+        "total_fake": 2,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 400.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 400.0
+    }
+}

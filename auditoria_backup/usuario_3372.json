@@ -1,0 +1,37 @@
+{
+    "id": 3372,
+    "nome": "Joao Pedro",
+    "email": "joao.j10095@hotmail.com",
+    "usuario": "jpramos",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Breno Duarte Paerehrino",
+        "usuario": "topbrasil"
+    },
+    "entradas": {
+        "entradas_totais": 20.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 20.0
+    },
+    "saidas": {
+        "saques_totais": 41.87,
+        "saques_pix": 41.87,
+        "saques_usdt": 0.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 12.5,
+        "ganhos_residual": 31.49
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 2,
+        "total_normal": 2,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 50.0,
+        "total_pix": 50.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

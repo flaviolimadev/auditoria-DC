@@ -1,0 +1,34 @@
+{
+    "id": 3474,
+    "nome": "Alex Sandro Rodrigues dos Reis",
+    "email": "focomms@gmail.com",
+    "usuario": "brasil",
+    "contato": null,
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 30.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 20.0,
+        "entradas_pix": 10.0
+    },
+    "saidas": {
+        "saques_totais": 16.6,
+        "saques_pix": 16.6,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 17.38,
+        "ganhos_residual": 7.11
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 9,
+        "total_normal": 9,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 60.0,
+        "total_pix": 60.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

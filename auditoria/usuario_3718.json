@@ -1,0 +1,135 @@
+{
+    "nome": "Natali Oliveira da Silva Belo",
+    "email": "milionaria.msa@gmail.com",
+    "usuario": "Orlandobello",
+    "contato": "81987340437",
+    "tipo_conta": "NORMAL",
+    "saldo_disponivel": 7.85,
+    "entradas": {
+        "entradas_totais": 389.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 220.0,
+        "entradas_pix": 169.0
+    },
+    "saidas": {
+        "saques_totais": 752.71,
+        "saques_pix": 752.71,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 101.15,
+        "ganhos_residual": 659.41
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 65,
+            "total_normal": 11,
+            "total_fake": 14,
+            "total_bonus": 0,
+            "total_lider": 40,
+            "total_investido": 7993.55,
+            "total_pix": 5704.55,
+            "total_usdt": 24.0,
+            "total_fakes": 2265.0
+        },
+        "nivel_2": {
+            "numero_indicados": 37,
+            "total_normal": 12,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 23,
+            "total_investido": 1577.0,
+            "total_pix": 970.0,
+            "total_usdt": 47.0,
+            "total_fakes": 560.0
+        },
+        "nivel_3": {
+            "numero_indicados": 7,
+            "total_normal": 2,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 2,
+            "total_investido": 140.0,
+            "total_pix": 90.0,
+            "total_usdt": 0.0,
+            "total_fakes": 50.0
+        },
+        "nivel_4": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_5": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

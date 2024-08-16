@@ -1,0 +1,37 @@
+{
+    "id": 3394,
+    "nome": "Tiago Coradini",
+    "email": "tcoradini07@gmail.com",
+    "usuario": "Tcoradini07",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Bruno Angelo Ribeiro da silva",
+        "usuario": "Bruno2681"
+    },
+    "entradas": {
+        "entradas_totais": 90.34,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 0.0,
+        "entradas_pix": 90.34
+    },
+    "saidas": {
+        "saques_totais": 164.75,
+        "saques_pix": 140.75,
+        "saques_usdt": 24.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 24.87,
+        "ganhos_residual": 155.63
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 1,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 733.0,
+        "total_pix": 533.0,
+        "total_usdt": 0.0,
+        "total_fakes": 200.0
+    }
+}

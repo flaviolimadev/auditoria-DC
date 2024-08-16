@@ -1,0 +1,37 @@
+{
+    "id": 3349,
+    "nome": "Jo\u00e3o Batista Ferreira Alves",
+    "email": "jbatistapalmas@gmail.com",
+    "usuario": "JBatista",
+    "contato": null,
+    "patrocinador": {
+        "nome": "Jos\u00e9 silva",
+        "usuario": "ricoteam"
+    },
+    "entradas": {
+        "entradas_totais": 300.0,
+        "entradas_usdt": 0.0,
+        "entradas_fakes": 110.0,
+        "entradas_pix": 190.0
+    },
+    "saidas": {
+        "saques_totais": 223.37,
+        "saques_pix": 179.37,
+        "saques_usdt": 44.0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 98.89,
+        "ganhos_residual": 126.43
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 5,
+        "total_normal": 5,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 1371.0,
+        "total_pix": 1371.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

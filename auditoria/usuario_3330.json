@@ -1,0 +1,135 @@
+{
+    "nome": "duarte vieira",
+    "email": "duvi31@gmail.com",
+    "usuario": "cryptotuga",
+    "contato": "964593362",
+    "tipo_conta": "LIDER",
+    "saldo_disponivel": 14.5,
+    "entradas": {
+        "entradas_totais": 1120.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 1120.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 972.55,
+        "saques_pix": 0,
+        "saques_usdt": 972.55
+    },
+    "ganhos": {
+        "ganhos_rendimento": 445.96,
+        "ganhos_residual": 541.09
+    },
+    "niveis": {
+        "nivel_1": {
+            "numero_indicados": 76,
+            "total_normal": 70,
+            "total_fake": 3,
+            "total_bonus": 0,
+            "total_lider": 3,
+            "total_investido": 6908.0,
+            "total_pix": 1091.0,
+            "total_usdt": 3012.0,
+            "total_fakes": 2805.0
+        },
+        "nivel_2": {
+            "numero_indicados": 23,
+            "total_normal": 21,
+            "total_fake": 2,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 5140.0,
+            "total_pix": 630.0,
+            "total_usdt": 3095.0,
+            "total_fakes": 1415.0
+        },
+        "nivel_3": {
+            "numero_indicados": 52,
+            "total_normal": 51,
+            "total_fake": 1,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 34184.5,
+            "total_pix": 30.0,
+            "total_usdt": 30625.5,
+            "total_fakes": 3529.0
+        },
+        "nivel_4": {
+            "numero_indicados": 7,
+            "total_normal": 7,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 3920.0,
+            "total_pix": 500.0,
+            "total_usdt": 2463.0,
+            "total_fakes": 957.0
+        },
+        "nivel_5": {
+            "numero_indicados": 1,
+            "total_normal": 1,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 300.0,
+            "total_pix": 0.0,
+            "total_usdt": 300.0,
+            "total_fakes": 0.0
+        },
+        "nivel_6": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_7": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_8": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_9": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        },
+        "nivel_10": {
+            "numero_indicados": 0,
+            "total_normal": 0,
+            "total_fake": 0,
+            "total_bonus": 0,
+            "total_lider": 0,
+            "total_investido": 0.0,
+            "total_pix": 0.0,
+            "total_usdt": 0.0,
+            "total_fakes": 0.0
+        }
+    }
+}

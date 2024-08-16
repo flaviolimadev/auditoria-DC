@@ -1,0 +1,34 @@
+{
+    "id": 5401,
+    "nome": "Luciana Macario de Oliveira",
+    "email": "lucianarica2@gmail.com",
+    "usuario": "lucianarica",
+    "contato": "79998080212",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 460.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 110.0,
+        "entradas_pix": 350.0
+    },
+    "saidas": {
+        "saques_totais": 39.0,
+        "saques_pix": 39.0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 48.4,
+        "ganhos_residual": 0
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 0,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 0.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 0.0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 5843,
+    "nome": "Cristina Gomes",
+    "email": "sucessgroupbtc@gmail.com",
+    "usuario": "sucessteam",
+    "contato": "916036127",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 2000.0,
+        "entradas_usdt": 845.0,
+        "entradas_fakes": 1155.0,
+        "entradas_pix": 0
+    },
+    "saidas": {
+        "saques_totais": 2251.59,
+        "saques_pix": 0,
+        "saques_usdt": 2251.59
+    },
+    "ganhos": {
+        "ganhos_rendimento": 211.57,
+        "ganhos_residual": 1040.05
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 41,
+        "total_normal": 40,
+        "total_fake": 1,
+        "total_bonus": 0,
+        "total_lider": 0,
+        "total_investido": 34154.5,
+        "total_pix": 0.0,
+        "total_usdt": 30625.5,
+        "total_fakes": 3529.0
+    }
+}

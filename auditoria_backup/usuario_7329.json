@@ -1,0 +1,34 @@
+{
+    "id": 7329,
+    "nome": "Adriano",
+    "email": "adrianoalvesarthur04@gmail.com",
+    "usuario": "adriano2024",
+    "contato": "81995159868",
+    "patrocinador": "N/A",
+    "entradas": {
+        "entradas_totais": 990.0,
+        "entradas_usdt": 0,
+        "entradas_fakes": 730.0,
+        "entradas_pix": 260.0
+    },
+    "saidas": {
+        "saques_totais": 0,
+        "saques_pix": 0,
+        "saques_usdt": 0
+    },
+    "ganhos": {
+        "ganhos_rendimento": 67.26,
+        "ganhos_residual": 3.29
+    },
+    "primeiro_nivel": {
+        "numero_indicados": 1,
+        "total_normal": 0,
+        "total_fake": 0,
+        "total_bonus": 0,
+        "total_lider": 1,
+        "total_investido": 500.0,
+        "total_pix": 0.0,
+        "total_usdt": 0.0,
+        "total_fakes": 500.0
+    }
+}
